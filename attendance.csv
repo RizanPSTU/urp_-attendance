@@ -42,12 +42,12 @@ Index, Name, Date, Day, Arrival Time, Leave Time, Status
 41 , Md. Hafizur Rahman , 2020-12-02 , Wednesday , 11:25:19 am , 8:4:27 pm , Late Arrived
 42 , Md. Shahin Mia , 2020-12-02 , Wednesday , 1:48:27 pm , 8:0:26 pm , Late Arrived
 43 , Rakibuzzaman Summon , 2020-12-02 , Wednesday , 9:50:10 am , 5:57:3 pm , Late Arrived
-44 , Md Sajjad Hossain , 2020-12-02 , Wednesday , 8:57:6 am , 5:28:24 pm , Attendant
+44 , Md Sajjad Hossain , 2020-12-02 , Wednesday , 8:57:6 am , 5:28:24 pm , Present Office Full Time
 45 , Shovon Saha , 2020-12-02 , Wednesday , 11:29:39 am , 5:18:31 pm , Late Arrived
 46 , B M Nural Absar , 2020-12-02 , Wednesday , 5:5:44 pm , 5:5:44 pm , Invalid Arrival or Leave Time
-47 , Suvro Dev Sarker , 2020-12-02 , Wednesday , 8:59:31 am , 5:2:29 pm , Attendant
+47 , Suvro Dev Sarker , 2020-12-02 , Wednesday , 8:59:31 am , 5:2:29 pm , Present Office Full Time
 48 , Md. Fahim Faisal , 2020-12-02 , Wednesday , 1:1:4 pm , 5:0:4 pm , Late Arrived
-49 , Tapan Kumar , 2020-12-02 , Wednesday , 8:59:50 am , 5:0:0 pm , Attendant
+49 , Tapan Kumar , 2020-12-02 , Wednesday , 8:59:50 am , 5:0:0 pm , Present Office Full Time
 50 , Shadia Masud , 2020-12-02 , Wednesday , 9:49:28 am , 4:59:35 pm , Late Arrived & Early leaved
 51 , Md. Nasif Hossain Imon , 2020-12-02 , Wednesday , 8:59:55 am , 4:59:30 pm , Early leaved
 52 , Bilash Kumar Ghosh , 2020-12-02 , Wednesday , 8:59:45 am , 4:57:53 pm , Early leaved
@@ -78,8 +78,8 @@ Index, Name, Date, Day, Arrival Time, Leave Time, Status
 77 , Shovon Saha , 2020-12-01 , Tuesday , 11:29:52 am , 6:36:55 pm , Late Arrived
 78 , Umme Suraya Nasrin , 2020-12-01 , Tuesday , 11:54:34 am , 6:0:53 pm , Late Arrived
 79 , Pronab Bindu Majumder , 2020-12-01 , Tuesday , 9:21:26 am , 6:0:45 pm , Late Arrived
-80 , Md Sajjad Hossain , 2020-12-01 , Tuesday , 8:59:44 am , 5:59:51 pm , Attendant
-81 , Md Anwarul Kader , 2020-12-01 , Tuesday , 8:59:40 am , 5:59:40 pm , Attendant
+80 , Md Sajjad Hossain , 2020-12-01 , Tuesday , 8:59:44 am , 5:59:51 pm , Present Office Full Time
+81 , Md Anwarul Kader , 2020-12-01 , Tuesday , 8:59:40 am , 5:59:40 pm , Present Office Full Time
 82 , Sushanta Kumar Das , 2020-12-01 , Tuesday , 9:23:48 am , 5:36:8 pm , Late Arrived
 83 , Rafsan Uddin Beg Rizan , 2020-12-01 , Tuesday , 11:20:2 am , 5:32:23 pm , Late Arrived
 84 , D.M-Al-Maher , 2020-12-01 , Tuesday , 12:43:26 pm , 5:11:20 pm , Late Arrived
