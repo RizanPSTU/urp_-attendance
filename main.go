@@ -19,15 +19,50 @@ func contains(s []int, e int) bool {
 	return false
 }
 
-func containsEmp(s []Employee, e Employee) (bool, Employee) {
-	for _, a := range s {
+func containsEmpAndFixingArrival(s []Employee, e Employee) (bool, Employee) {
+	for i, a := range s {
 		if a.EmpID == e.EmpID && a.Date == e.Date {
-			// fmt.Print("Same ")
-			// fmt.Println(a)
+			if a.Time.After(e.Time) {
+				arriveEmpList[i] = e
+			}
 			return true, a
 		}
 	}
 	return false, e
+}
+func containsEmpAndFixingLeave(s []Employee, e Employee) (bool, Employee) {
+	for i, a := range s {
+		if a.EmpID == e.EmpID && a.Date == e.Date {
+			if a.Time.Before(e.Time) {
+				leaveEmpList[i] = e
+			}
+			return true, a
+		}
+	}
+	return false, e
+}
+
+func giveStatus(at time.Time, lt time.Time) string {
+
+	if at == lt {
+		return "Invalid Arrival or Leave Time"
+	}
+	timeA, _ := time.Parse("15:04:05", "09:00:00")
+	timeL, _ := time.Parse("15:04:05", "17:00:00")
+
+	if at.After(timeA) && lt.Before(timeL) {
+		return "Late Arrived & Early leaved"
+	}
+
+	if at.After(timeA) == false && lt.Before(timeL) {
+		return "Early leaved"
+	}
+
+	if at.After(timeA) && lt.Before(timeL) == false {
+		return "Late Arrived"
+	}
+
+	return "Attendant"
 }
 
 func readCsvFile(filePath string) [][]string {
@@ -60,15 +95,17 @@ type User struct {
 	EmpID int    `json:"EmpID"`
 }
 
+var (
+	//Two main
+	leaveEmpList  = []Employee{}
+	arriveEmpList = []Employee{}
+)
+
 func main() {
 	//Missing 104 and 405 in currentUsersEmp
 	officerIDS := []int{101, 102, 103, 104, 105, 106, 107, 108, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 301, 302, 303, 304, 305, 306, 307, 401, 402, 403, 404, 405, 406}
 	cleanerEmpIDS := []int{407, 408}
 	currentUsersEmp := []User{}
-
-	//Two main
-	// leaveEmpList := []Employee{}
-	arriveEmpList := []Employee{}
 
 	allOfficersRecors := []Employee{}
 	records := readCsvFile("./data.csv")
@@ -80,7 +117,7 @@ func main() {
 		log.Fatal("Creating CSV error :", errCSV)
 	}
 
-	_, errWriteHead := fmt.Fprintln(csvFile, "Name,", "Date,", "Time")
+	_, errWriteHead := fmt.Fprintln(csvFile, "Index,", "Name,", "Date,", "Day,", "Arrival Time,", "Leave Time,", "Status")
 	if errWriteHead != nil {
 		log.Fatalln("Head write to attendance.csv Error:", errWriteHead)
 	}
@@ -113,30 +150,57 @@ func main() {
 	}
 
 	//Making a copy of original list
-	originalCopyAllOfficersRecors := make([]Employee, len(allOfficersRecors))
-	copy(originalCopyAllOfficersRecors, allOfficersRecors)
+	originalCopyAllOfficersRecords := make([]Employee, len(allOfficersRecors))
+	copy(originalCopyAllOfficersRecords, allOfficersRecors)
 
-	//Sort
+	//Sort by date (Early is first)
+	sort.Slice(originalCopyAllOfficersRecords, func(i, j int) bool {
+		return originalCopyAllOfficersRecords[i].Date.After(originalCopyAllOfficersRecords[j].Date)
+	})
+
+	//Sort by date (Early is first) View
+	for _, t := range originalCopyAllOfficersRecords {
+		fmt.Println(t)
+	}
+
+	//Sort by EmpID
 	sort.SliceStable(allOfficersRecors, func(i, j int) bool {
 		return allOfficersRecors[i].EmpID < allOfficersRecors[j].EmpID
 	})
 
-	for _, ofr := range originalCopyAllOfficersRecors {
+	//Finding arrival
+	for _, ofr := range originalCopyAllOfficersRecords {
 		//Find the arrival time
-		isEmpContainsArrival, _ := containsEmp(arriveEmpList, ofr)
+		isEmpContainsArrival, _ := containsEmpAndFixingArrival(arriveEmpList, ofr)
 
 		if isEmpContainsArrival == false {
 			arriveEmpList = append(arriveEmpList, ofr)
 		}
 	}
 
-	// for i, e := range empList {
-	// 	fmt.Println(i, " Name:", e.Name, " Date:", e.Date.String()[0:10], " Day:", e.Date.Weekday(), " Time:", e.Time.Format("2006-01-02 3:4:5 pm")[11:])
-	// 	_, errWrite := fmt.Fprintln(csvFile, e.Name, e.Date.String()[0:10], e.Date.Weekday(), e.Time.Format("2006-01-02 3:4:5 pm")[11:])
-	// 	if errWrite != nil {
-	// 		log.Fatalln("Save to attendance.csv Error:", errWrite)
-	// 	}
-	// }
+	//Finding leave
+	for _, ofr := range originalCopyAllOfficersRecords {
+		//Find the leave time
+		isEmpContainsLeave, _ := containsEmpAndFixingLeave(leaveEmpList, ofr)
+
+		if isEmpContainsLeave == false {
+			leaveEmpList = append(leaveEmpList, ofr)
+		}
+	}
+
+	if len(arriveEmpList) == len(leaveEmpList) {
+		fmt.Println("Same len :)")
+		for i, e := range arriveEmpList {
+			fmt.Println()
+			fmt.Println(i+1, " Name:", e.Name, " Date:", e.Date.String()[0:10], " Day:", e.Date.Weekday(), " Arrival Time:", e.Time.Format("2006-01-02 3:4:5 pm")[11:], " Leave Time:", leaveEmpList[i].Time.Format("2006-01-02 3:4:5 pm")[11:], " Status:", giveStatus(e.Time, leaveEmpList[i].Time))
+			index := i + 1
+
+			_, errWrite := fmt.Fprintln(csvFile, index, ",", e.Name, ",", e.Date.String()[0:10], ",", e.Date.Weekday(), ",", e.Time.Format("2006-01-02 3:4:5 pm")[11:], ",", leaveEmpList[i].Time.Format("2006-01-02 3:4:5 pm")[11:], ",", giveStatus(e.Time, leaveEmpList[i].Time))
+			if errWrite != nil {
+				log.Fatalln("Save to attendance.csv Error:", errWrite)
+			}
+		}
+	}
 
 	//Current user get for finding the absent user
 	for _, u := range users {

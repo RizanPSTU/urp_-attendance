@@ -1,1 +1,107 @@
-Name, Date, Time
+Index, Name, Date, Day, Arrival Time, Leave Time, Status
+1 , Md. Motaleb Hossain , 2020-12-05 , Saturday , 11:58:39 am , 8:39:46 pm , Late Arrived
+2 , Md. Saifur Rahman Joarder , 2020-12-05 , Saturday , 3:52:46 pm , 3:52:46 pm , Invalid Arrival or Leave Time
+3 , Md. Shahadat Hossain Mabud , 2020-12-05 , Saturday , 2:34:6 pm , 2:34:6 pm , Invalid Arrival or Leave Time
+4 , Md. Motaleb Hossain , 2020-12-04 , Friday , 10:30:18 am , 5:49:18 pm , Late Arrived
+5 , Md. Hafizur Rahman , 2020-12-04 , Friday , 1:15:13 pm , 1:15:13 pm , Invalid Arrival or Leave Time
+6 , Md. Shahadat Hossain Mabud , 2020-12-03 , Thursday , 9:10:0 am , 12:42:22 pm , Late Arrived & Early leaved
+7 , Abdus Salam Mia , 2020-12-03 , Thursday , 7:20:45 pm , 10:1:24 pm , Late Arrived
+8 , Gazi Golam Sarwar , 2020-12-03 , Thursday , 1:54:6 pm , 9:9:20 pm , Late Arrived
+9 , Md. Motaleb Hossain , 2020-12-03 , Thursday , 11:6:30 am , 10:17:23 pm , Late Arrived
+10 , Shovon Saha , 2020-12-03 , Thursday , 11:37:26 am , 8:6:25 pm , Late Arrived
+11 , Md. Hafizur Rahman , 2020-12-03 , Thursday , 11:32:16 am , 7:37:26 pm , Late Arrived
+12 , Rakibuzzaman Summon , 2020-12-03 , Thursday , 10:0:2 am , 5:12:3 pm , Late Arrived
+13 , Sushanta Kumar Das , 2020-12-03 , Thursday , 9:56:37 am , 5:10:24 pm , Late Arrived
+14 , S. M. Rifat Bin Rafiq , 2020-12-03 , Thursday , 10:3:35 am , 5:1:29 pm , Late Arrived
+15 , Md. Shukat Ali , 2020-12-03 , Thursday , 9:10:28 am , 5:1:20 pm , Late Arrived
+16 , Shadia Masud , 2020-12-03 , Thursday , 10:11:59 am , 4:50:19 pm , Late Arrived & Early leaved
+17 , Pronab Bindu Majumder , 2020-12-03 , Thursday , 10:37:53 am , 4:45:54 pm , Late Arrived & Early leaved
+18 , B M Nural Absar , 2020-12-03 , Thursday , 4:40:49 pm , 4:40:49 pm , Invalid Arrival or Leave Time
+19 , Khandaker Md. Wahid Sadique , 2020-12-03 , Thursday , 10:59:52 am , 4:38:59 pm , Late Arrived & Early leaved
+20 , D.M-Al-Maher , 2020-12-03 , Thursday , 3:26:31 pm , 3:26:31 pm , Invalid Arrival or Leave Time
+21 , Md Aminur Rahman , 2020-12-03 , Thursday , 3:7:41 pm , 3:7:41 pm , Invalid Arrival or Leave Time
+22 , Md. Saifur Rahman Joarder , 2020-12-03 , Thursday , 3:3:27 pm , 3:3:27 pm , Invalid Arrival or Leave Time
+23 , Umme Suraya Nasrin , 2020-12-03 , Thursday , 11:49:1 am , 2:57:7 pm , Late Arrived & Early leaved
+24 , Bilash Kumar Ghosh , 2020-12-03 , Thursday , 9:10:23 am , 12:45:40 pm , Late Arrived & Early leaved
+25 , Pretom Sikder Joy , 2020-12-03 , Thursday , 9:26:35 am , 12:24:12 pm , Late Arrived & Early leaved
+26 , Md Anwarul Kader , 2020-12-03 , Thursday , 8:52:57 am , 12:23:50 pm , Early leaved
+27 , Suvro Dev Sarker , 2020-12-03 , Thursday , 9:10:32 am , 12:16:38 pm , Late Arrived & Early leaved
+28 , Mohammad Hasan , 2020-12-03 , Thursday , 9:34:40 am , 12:8:5 pm , Late Arrived & Early leaved
+29 , Sudipta Chakraborty , 2020-12-03 , Thursday , 11:58:27 am , 11:58:27 am , Invalid Arrival or Leave Time
+30 , Tasnim Rahat , 2020-12-03 , Thursday , 8:53:8 am , 11:26:30 am , Early leaved
+31 , Md. Apel Mahmud , 2020-12-03 , Thursday , 11:25:3 am , 11:25:3 am , Invalid Arrival or Leave Time
+32 , Tapan Kumar , 2020-12-03 , Thursday , 9:10:14 am , 9:47:40 am , Late Arrived & Early leaved
+33 , Md. Maminul Islam , 2020-12-03 , Thursday , 9:26:13 am , 9:36:42 am , Late Arrived & Early leaved
+34 , Md. Nasif Hossain Imon , 2020-12-03 , Thursday , 9:10:19 am , 9:10:19 am , Invalid Arrival or Leave Time
+35 , S.M.Shafiquzzama , 2020-12-03 , Thursday , 9:10:10 am , 9:10:10 am , Invalid Arrival or Leave Time
+36 , Nidalia Islam , 2020-12-03 , Thursday , 8:53:57 am , 8:53:57 am , Invalid Arrival or Leave Time
+37 , Pronab Bindu Majumder , 2020-12-02 , Wednesday , 9:3:57 am , 8:55:28 pm , Late Arrived
+38 , Abdus Salam Mia , 2020-12-02 , Wednesday , 6:16:44 pm , 9:25:9 pm , Late Arrived
+39 , Md. Motaleb Hossain , 2020-12-02 , Wednesday , 10:4:44 am , 9:49:25 pm , Late Arrived
+40 , Sushanta Kumar Das , 2020-12-02 , Wednesday , 9:38:18 am , 8:20:45 pm , Late Arrived
+41 , Md. Hafizur Rahman , 2020-12-02 , Wednesday , 11:25:19 am , 8:4:27 pm , Late Arrived
+42 , Md. Shahin Mia , 2020-12-02 , Wednesday , 1:48:27 pm , 8:0:26 pm , Late Arrived
+43 , Rakibuzzaman Summon , 2020-12-02 , Wednesday , 9:50:10 am , 5:57:3 pm , Late Arrived
+44 , Md Sajjad Hossain , 2020-12-02 , Wednesday , 8:57:6 am , 5:28:24 pm , Attendant
+45 , Shovon Saha , 2020-12-02 , Wednesday , 11:29:39 am , 5:18:31 pm , Late Arrived
+46 , B M Nural Absar , 2020-12-02 , Wednesday , 5:5:44 pm , 5:5:44 pm , Invalid Arrival or Leave Time
+47 , Suvro Dev Sarker , 2020-12-02 , Wednesday , 8:59:31 am , 5:2:29 pm , Attendant
+48 , Md. Fahim Faisal , 2020-12-02 , Wednesday , 1:1:4 pm , 5:0:4 pm , Late Arrived
+49 , Tapan Kumar , 2020-12-02 , Wednesday , 8:59:50 am , 5:0:0 pm , Attendant
+50 , Shadia Masud , 2020-12-02 , Wednesday , 9:49:28 am , 4:59:35 pm , Late Arrived & Early leaved
+51 , Md. Nasif Hossain Imon , 2020-12-02 , Wednesday , 8:59:55 am , 4:59:30 pm , Early leaved
+52 , Bilash Kumar Ghosh , 2020-12-02 , Wednesday , 8:59:45 am , 4:57:53 pm , Early leaved
+53 , Md. Shukat Ali , 2020-12-02 , Wednesday , 8:59:39 am , 4:57:8 pm , Early leaved
+54 , Tasnim Rahat , 2020-12-02 , Wednesday , 8:57:21 am , 4:53:32 pm , Early leaved
+55 , Md Taimur Tanvir , 2020-12-02 , Wednesday , 10:32:38 am , 4:50:7 pm , Late Arrived & Early leaved
+56 , Rafsan Uddin Beg Rizan , 2020-12-02 , Wednesday , 10:25:21 am , 2:47:10 pm , Late Arrived & Early leaved
+57 , Abdur Rahman Khan , 2020-12-02 , Wednesday , 9:52:10 am , 2:43:4 pm , Late Arrived & Early leaved
+58 , Md. Saifur Rahman Joarder , 2020-12-02 , Wednesday , 2:37:51 pm , 2:37:51 pm , Invalid Arrival or Leave Time
+59 , Mufrad Hossain , 2020-12-02 , Wednesday , 9:41:31 am , 1:14:12 pm , Late Arrived & Early leaved
+60 , Md. Touhidur Rahman , 2020-12-02 , Wednesday , 9:9:55 am , 1:10:11 pm , Late Arrived & Early leaved
+61 , S. M. Rifat Bin Rafiq , 2020-12-02 , Wednesday , 9:59:1 am , 12:58:47 pm , Late Arrived & Early leaved
+62 , Md. Al-Amin Hossion , 2020-12-02 , Wednesday , 9:17:19 am , 12:45:41 pm , Late Arrived & Early leaved
+63 , Umme Suraya Nasrin , 2020-12-02 , Wednesday , 11:56:2 am , 11:56:2 am , Invalid Arrival or Leave Time
+64 , Md Aminur Rahman , 2020-12-02 , Wednesday , 11:13:52 am , 11:13:52 am , Invalid Arrival or Leave Time
+65 , Md. Abdus Samad Azad , 2020-12-02 , Wednesday , 10:13:5 am , 10:13:5 am , Invalid Arrival or Leave Time
+66 , S.M.Shafiquzzama , 2020-12-02 , Wednesday , 9:49:22 am , 9:49:22 am , Invalid Arrival or Leave Time
+67 , Saleh Ahmmed , 2020-12-02 , Wednesday , 9:30:14 am , 9:30:14 am , Invalid Arrival or Leave Time
+68 , Pretom Sikder Joy , 2020-12-02 , Wednesday , 9:24:56 am , 9:24:56 am , Invalid Arrival or Leave Time
+69 , Mohammad Hasan , 2020-12-02 , Wednesday , 9:19:9 am , 9:19:9 am , Invalid Arrival or Leave Time
+70 , Md. Nazmul Hoque , 2020-12-02 , Wednesday , 8:57:59 am , 8:57:59 am , Invalid Arrival or Leave Time
+71 , Nidalia Islam , 2020-12-02 , Wednesday , 8:57:15 am , 8:57:15 am , Invalid Arrival or Leave Time
+72 , Md. Shahin Mia , 2020-12-01 , Tuesday , 1:21:22 pm , 8:19:21 pm , Late Arrived
+73 , Gazi Golam Sarwar , 2020-12-01 , Tuesday , 2:12:59 pm , 7:38:18 pm , Late Arrived
+74 , Abdus Salam Mia , 2020-12-01 , Tuesday , 7:35:32 pm , 7:35:32 pm , Invalid Arrival or Leave Time
+75 , Rakibuzzaman Summon , 2020-12-01 , Tuesday , 9:21:58 am , 7:25:32 pm , Late Arrived
+76 , Md. Motaleb Hossain , 2020-12-01 , Tuesday , 11:50:58 am , 7:20:34 pm , Late Arrived
+77 , Shovon Saha , 2020-12-01 , Tuesday , 11:29:52 am , 6:36:55 pm , Late Arrived
+78 , Umme Suraya Nasrin , 2020-12-01 , Tuesday , 11:54:34 am , 6:0:53 pm , Late Arrived
+79 , Pronab Bindu Majumder , 2020-12-01 , Tuesday , 9:21:26 am , 6:0:45 pm , Late Arrived
+80 , Md Sajjad Hossain , 2020-12-01 , Tuesday , 8:59:44 am , 5:59:51 pm , Attendant
+81 , Md Anwarul Kader , 2020-12-01 , Tuesday , 8:59:40 am , 5:59:40 pm , Attendant
+82 , Sushanta Kumar Das , 2020-12-01 , Tuesday , 9:23:48 am , 5:36:8 pm , Late Arrived
+83 , Rafsan Uddin Beg Rizan , 2020-12-01 , Tuesday , 11:20:2 am , 5:32:23 pm , Late Arrived
+84 , D.M-Al-Maher , 2020-12-01 , Tuesday , 12:43:26 pm , 5:11:20 pm , Late Arrived
+85 , Md Taimur Tanvir , 2020-12-01 , Tuesday , 12:59:9 pm , 5:10:14 pm , Late Arrived
+86 , Abdur Rahman Khan , 2020-12-01 , Tuesday , 9:32:38 am , 5:7:3 pm , Late Arrived
+87 , Md. Nasif Hossain Imon , 2020-12-01 , Tuesday , 9:4:15 am , 5:6:32 pm , Late Arrived
+88 , Tapan Kumar , 2020-12-01 , Tuesday , 9:4:9 am , 5:6:25 pm , Late Arrived
+89 , Md. Shukat Ali , 2020-12-01 , Tuesday , 9:4:4 am , 5:6:13 pm , Late Arrived
+90 , Shadia Masud , 2020-12-01 , Tuesday , 9:51:50 am , 5:4:47 pm , Late Arrived
+91 , Mufrad Hossain , 2020-12-01 , Tuesday , 9:29:56 am , 4:23:49 pm , Late Arrived & Early leaved
+92 , Nidalia Islam , 2020-12-01 , Tuesday , 9:0:4 am , 3:35:51 pm , Late Arrived & Early leaved
+93 , Md Aminur Rahman , 2020-12-01 , Tuesday , 10:57:54 am , 2:25:58 pm , Late Arrived & Early leaved
+94 , Saleh Ahmmed , 2020-12-01 , Tuesday , 9:47:41 am , 2:12:1 pm , Late Arrived & Early leaved
+95 , Md. Hafizur Rahman , 2020-12-01 , Tuesday , 1:30:15 pm , 1:30:15 pm , Invalid Arrival or Leave Time
+96 , B M Nural Absar , 2020-12-01 , Tuesday , 1:1:51 pm , 1:1:51 pm , Invalid Arrival or Leave Time
+97 , Md. Apel Mahmud , 2020-12-01 , Tuesday , 12:14:39 pm , 12:14:39 pm , Invalid Arrival or Leave Time
+98 , Abul Khair , 2020-12-01 , Tuesday , 9:3:58 am , 11:47:17 am , Late Arrived & Early leaved
+99 , Md. Saifur Rahman Joarder , 2020-12-01 , Tuesday , 11:28:20 am , 11:28:20 am , Invalid Arrival or Leave Time
+100 , Khandaker Md. Wahid Sadique , 2020-12-01 , Tuesday , 11:20:27 am , 11:20:27 am , Invalid Arrival or Leave Time
+101 , Md. Razib Hasan , 2020-12-01 , Tuesday , 9:36:38 am , 10:18:3 am , Late Arrived & Early leaved
+102 , Md. Abdus Samad Azad , 2020-12-01 , Tuesday , 10:14:2 am , 10:14:2 am , Invalid Arrival or Leave Time
+103 , Pretom Sikder Joy , 2020-12-01 , Tuesday , 9:32:24 am , 9:32:24 am , Invalid Arrival or Leave Time
+104 , Mohammad Hasan , 2020-12-01 , Tuesday , 9:18:56 am , 9:18:56 am , Invalid Arrival or Leave Time
+105 , Suvro Dev Sarker , 2020-12-01 , Tuesday , 9:3:51 am , 9:3:51 am , Invalid Arrival or Leave Time
+106 , Tasnim Rahat , 2020-12-01 , Tuesday , 8:59:50 am , 8:59:50 am , Invalid Arrival or Leave Time
