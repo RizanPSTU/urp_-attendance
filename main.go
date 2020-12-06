@@ -81,6 +81,14 @@ func readCsvFile(filePath string) [][]string {
 	return records
 }
 
+func dateFix(d time.Time) string {
+	return d.String()[0:10]
+}
+
+func timeFix(d time.Time) string {
+	return d.Format("2006-01-02 3:4:5 pm")[11:]
+}
+
 //Employee Model
 type Employee struct {
 	Name  string    `json:"Name"`
@@ -93,6 +101,17 @@ type Employee struct {
 type User struct {
 	Name  string `json:"Name"`
 	EmpID int    `json:"EmpID"`
+}
+
+//Attendance Model
+type Attendance struct {
+	Name        string    `json:"Name"`
+	EmpID       int       `json:"EmpID"`
+	Date        time.Time `json:"Date"`
+	Day         string    `json:"Day"`
+	ArrivalTime time.Time `json:"ArrivalTime"`
+	LeaveTime   time.Time `json:"LeaveTime"`
+	Status      string    `json:"Status"`
 }
 
 var (
@@ -123,6 +142,7 @@ func main() {
 	}
 	defer csvFile.Close()
 
+	//Crating model array from raw data
 	for _, r := range records {
 		if r[5] != "" {
 			empID, errID := strconv.Atoi(r[5])
@@ -192,30 +212,38 @@ func main() {
 		fmt.Println("Same len :)")
 		for i, e := range arriveEmpList {
 			fmt.Println()
-			fmt.Println(i+1, " Name:", e.Name, " Date:", e.Date.String()[0:10], " Day:", e.Date.Weekday(), " Arrival Time:", e.Time.Format("2006-01-02 3:4:5 pm")[11:], " Leave Time:", leaveEmpList[i].Time.Format("2006-01-02 3:4:5 pm")[11:], " Status:", giveStatus(e.Time, leaveEmpList[i].Time))
+			fmt.Println(i+1, " Name:", e.Name, " Date:", dateFix(e.Date), " Day:", e.Date.Weekday(), " Arrival Time:", timeFix(e.Time), " Leave Time:", timeFix(leaveEmpList[i].Time), " Status:", giveStatus(e.Time, leaveEmpList[i].Time))
 			index := i + 1
 
-			_, errWrite := fmt.Fprintln(csvFile, index, ",", e.Name, ",", e.Date.String()[0:10], ",", e.Date.Weekday(), ",", e.Time.Format("2006-01-02 3:4:5 pm")[11:], ",", leaveEmpList[i].Time.Format("2006-01-02 3:4:5 pm")[11:], ",", giveStatus(e.Time, leaveEmpList[i].Time))
+			_, errWrite := fmt.Fprintln(csvFile, index, ",", e.Name, ",", dateFix(e.Date), ",", e.Date.Weekday(), ",", timeFix(e.Time), ",", timeFix(leaveEmpList[i].Time), ",", giveStatus(e.Time, leaveEmpList[i].Time))
 			if errWrite != nil {
 				log.Fatalln("Save to attendance.csv Error:", errWrite)
 			}
 		}
 	}
 
-	//Current user get for finding the absent user
-	for _, u := range users {
-		if u[2] != "" {
-			empID, errID := strconv.Atoi(u[2])
-			if errID != nil {
-				log.Fatalln("Error convert EmpID :", errID)
+	var userInput int
+	fmt.Println("Generate absant: Press 1")
+	fmt.Scanln(&userInput)
+	fmt.Println("You entered :", userInput)
+
+	if userInput == 1 {
+		//Current user get for finding the absent user
+		for _, u := range users {
+			if u[2] != "" {
+				empID, errID := strconv.Atoi(u[2])
+				if errID != nil {
+					log.Fatalln("Error convert EmpID :", errID)
+				}
+
+				isIDContainsInClear := contains(cleanerEmpIDS, empID)
+
+				if isIDContainsInClear == false {
+					currentUsersEmp = append(currentUsersEmp, User{Name: u[1], EmpID: empID})
+				}
+
 			}
-
-			isIDContainsInClear := contains(cleanerEmpIDS, empID)
-
-			if isIDContainsInClear == false {
-				currentUsersEmp = append(currentUsersEmp, User{Name: u[1], EmpID: empID})
-			}
-
 		}
 	}
+
 }
