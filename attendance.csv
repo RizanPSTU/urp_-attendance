@@ -1,107 +1,618 @@
 Index, Name, Date, Day, Arrival Time, Leave Time, Status
-1 , Md. Motaleb Hossain , 2020-12-05 , Saturday , 11:58:39 am , 8:39:46 pm , Late Arrived
-2 , Md. Saifur Rahman Joarder , 2020-12-05 , Saturday , 3:52:46 pm , 3:52:46 pm , Invalid Arrival or Leave Time
-3 , Md. Shahadat Hossain Mabud , 2020-12-05 , Saturday , 2:34:6 pm , 2:34:6 pm , Invalid Arrival or Leave Time
-4 , Md. Motaleb Hossain , 2020-12-04 , Friday , 10:30:18 am , 5:49:18 pm , Late Arrived
-5 , Md. Hafizur Rahman , 2020-12-04 , Friday , 1:15:13 pm , 1:15:13 pm , Invalid Arrival or Leave Time
-6 , Md. Shahadat Hossain Mabud , 2020-12-03 , Thursday , 9:10:0 am , 12:42:22 pm , Late Arrived & Early leaved
-7 , Abdus Salam Mia , 2020-12-03 , Thursday , 7:20:45 pm , 10:1:24 pm , Late Arrived
-8 , Gazi Golam Sarwar , 2020-12-03 , Thursday , 1:54:6 pm , 9:9:20 pm , Late Arrived
-9 , Md. Motaleb Hossain , 2020-12-03 , Thursday , 11:6:30 am , 10:17:23 pm , Late Arrived
-10 , Shovon Saha , 2020-12-03 , Thursday , 11:37:26 am , 8:6:25 pm , Late Arrived
-11 , Md. Hafizur Rahman , 2020-12-03 , Thursday , 11:32:16 am , 7:37:26 pm , Late Arrived
-12 , Rakibuzzaman Summon , 2020-12-03 , Thursday , 10:0:2 am , 5:12:3 pm , Late Arrived
-13 , Sushanta Kumar Das , 2020-12-03 , Thursday , 9:56:37 am , 5:10:24 pm , Late Arrived
-14 , S. M. Rifat Bin Rafiq , 2020-12-03 , Thursday , 10:3:35 am , 5:1:29 pm , Late Arrived
-15 , Md. Shukat Ali , 2020-12-03 , Thursday , 9:10:28 am , 5:1:20 pm , Late Arrived
-16 , Shadia Masud , 2020-12-03 , Thursday , 10:11:59 am , 4:50:19 pm , Late Arrived & Early leaved
-17 , Pronab Bindu Majumder , 2020-12-03 , Thursday , 10:37:53 am , 4:45:54 pm , Late Arrived & Early leaved
-18 , B M Nural Absar , 2020-12-03 , Thursday , 4:40:49 pm , 4:40:49 pm , Invalid Arrival or Leave Time
-19 , Khandaker Md. Wahid Sadique , 2020-12-03 , Thursday , 10:59:52 am , 4:38:59 pm , Late Arrived & Early leaved
-20 , D.M-Al-Maher , 2020-12-03 , Thursday , 3:26:31 pm , 3:26:31 pm , Invalid Arrival or Leave Time
-21 , Md Aminur Rahman , 2020-12-03 , Thursday , 3:7:41 pm , 3:7:41 pm , Invalid Arrival or Leave Time
-22 , Md. Saifur Rahman Joarder , 2020-12-03 , Thursday , 3:3:27 pm , 3:3:27 pm , Invalid Arrival or Leave Time
-23 , Umme Suraya Nasrin , 2020-12-03 , Thursday , 11:49:1 am , 2:57:7 pm , Late Arrived & Early leaved
-24 , Bilash Kumar Ghosh , 2020-12-03 , Thursday , 9:10:23 am , 12:45:40 pm , Late Arrived & Early leaved
-25 , Pretom Sikder Joy , 2020-12-03 , Thursday , 9:26:35 am , 12:24:12 pm , Late Arrived & Early leaved
-26 , Md Anwarul Kader , 2020-12-03 , Thursday , 8:52:57 am , 12:23:50 pm , Early leaved
-27 , Suvro Dev Sarker , 2020-12-03 , Thursday , 9:10:32 am , 12:16:38 pm , Late Arrived & Early leaved
-28 , Mohammad Hasan , 2020-12-03 , Thursday , 9:34:40 am , 12:8:5 pm , Late Arrived & Early leaved
-29 , Sudipta Chakraborty , 2020-12-03 , Thursday , 11:58:27 am , 11:58:27 am , Invalid Arrival or Leave Time
-30 , Tasnim Rahat , 2020-12-03 , Thursday , 8:53:8 am , 11:26:30 am , Early leaved
-31 , Md. Apel Mahmud , 2020-12-03 , Thursday , 11:25:3 am , 11:25:3 am , Invalid Arrival or Leave Time
-32 , Tapan Kumar , 2020-12-03 , Thursday , 9:10:14 am , 9:47:40 am , Late Arrived & Early leaved
-33 , Md. Maminul Islam , 2020-12-03 , Thursday , 9:26:13 am , 9:36:42 am , Late Arrived & Early leaved
-34 , Md. Nasif Hossain Imon , 2020-12-03 , Thursday , 9:10:19 am , 9:10:19 am , Invalid Arrival or Leave Time
-35 , S.M.Shafiquzzama , 2020-12-03 , Thursday , 9:10:10 am , 9:10:10 am , Invalid Arrival or Leave Time
-36 , Nidalia Islam , 2020-12-03 , Thursday , 8:53:57 am , 8:53:57 am , Invalid Arrival or Leave Time
-37 , Pronab Bindu Majumder , 2020-12-02 , Wednesday , 9:3:57 am , 8:55:28 pm , Late Arrived
-38 , Abdus Salam Mia , 2020-12-02 , Wednesday , 6:16:44 pm , 9:25:9 pm , Late Arrived
-39 , Md. Motaleb Hossain , 2020-12-02 , Wednesday , 10:4:44 am , 9:49:25 pm , Late Arrived
-40 , Sushanta Kumar Das , 2020-12-02 , Wednesday , 9:38:18 am , 8:20:45 pm , Late Arrived
-41 , Md. Hafizur Rahman , 2020-12-02 , Wednesday , 11:25:19 am , 8:4:27 pm , Late Arrived
-42 , Md. Shahin Mia , 2020-12-02 , Wednesday , 1:48:27 pm , 8:0:26 pm , Late Arrived
-43 , Rakibuzzaman Summon , 2020-12-02 , Wednesday , 9:50:10 am , 5:57:3 pm , Late Arrived
-44 , Md Sajjad Hossain , 2020-12-02 , Wednesday , 8:57:6 am , 5:28:24 pm , Present Office Full Time
-45 , Shovon Saha , 2020-12-02 , Wednesday , 11:29:39 am , 5:18:31 pm , Late Arrived
-46 , B M Nural Absar , 2020-12-02 , Wednesday , 5:5:44 pm , 5:5:44 pm , Invalid Arrival or Leave Time
-47 , Suvro Dev Sarker , 2020-12-02 , Wednesday , 8:59:31 am , 5:2:29 pm , Present Office Full Time
-48 , Md. Fahim Faisal , 2020-12-02 , Wednesday , 1:1:4 pm , 5:0:4 pm , Late Arrived
-49 , Tapan Kumar , 2020-12-02 , Wednesday , 8:59:50 am , 5:0:0 pm , Present Office Full Time
-50 , Shadia Masud , 2020-12-02 , Wednesday , 9:49:28 am , 4:59:35 pm , Late Arrived & Early leaved
-51 , Md. Nasif Hossain Imon , 2020-12-02 , Wednesday , 8:59:55 am , 4:59:30 pm , Early leaved
-52 , Bilash Kumar Ghosh , 2020-12-02 , Wednesday , 8:59:45 am , 4:57:53 pm , Early leaved
-53 , Md. Shukat Ali , 2020-12-02 , Wednesday , 8:59:39 am , 4:57:8 pm , Early leaved
-54 , Tasnim Rahat , 2020-12-02 , Wednesday , 8:57:21 am , 4:53:32 pm , Early leaved
-55 , Md Taimur Tanvir , 2020-12-02 , Wednesday , 10:32:38 am , 4:50:7 pm , Late Arrived & Early leaved
-56 , Rafsan Uddin Beg Rizan , 2020-12-02 , Wednesday , 10:25:21 am , 2:47:10 pm , Late Arrived & Early leaved
-57 , Abdur Rahman Khan , 2020-12-02 , Wednesday , 9:52:10 am , 2:43:4 pm , Late Arrived & Early leaved
-58 , Md. Saifur Rahman Joarder , 2020-12-02 , Wednesday , 2:37:51 pm , 2:37:51 pm , Invalid Arrival or Leave Time
-59 , Mufrad Hossain , 2020-12-02 , Wednesday , 9:41:31 am , 1:14:12 pm , Late Arrived & Early leaved
-60 , Md. Touhidur Rahman , 2020-12-02 , Wednesday , 9:9:55 am , 1:10:11 pm , Late Arrived & Early leaved
-61 , S. M. Rifat Bin Rafiq , 2020-12-02 , Wednesday , 9:59:1 am , 12:58:47 pm , Late Arrived & Early leaved
-62 , Md. Al-Amin Hossion , 2020-12-02 , Wednesday , 9:17:19 am , 12:45:41 pm , Late Arrived & Early leaved
-63 , Umme Suraya Nasrin , 2020-12-02 , Wednesday , 11:56:2 am , 11:56:2 am , Invalid Arrival or Leave Time
-64 , Md Aminur Rahman , 2020-12-02 , Wednesday , 11:13:52 am , 11:13:52 am , Invalid Arrival or Leave Time
-65 , Md. Abdus Samad Azad , 2020-12-02 , Wednesday , 10:13:5 am , 10:13:5 am , Invalid Arrival or Leave Time
-66 , S.M.Shafiquzzama , 2020-12-02 , Wednesday , 9:49:22 am , 9:49:22 am , Invalid Arrival or Leave Time
-67 , Saleh Ahmmed , 2020-12-02 , Wednesday , 9:30:14 am , 9:30:14 am , Invalid Arrival or Leave Time
-68 , Pretom Sikder Joy , 2020-12-02 , Wednesday , 9:24:56 am , 9:24:56 am , Invalid Arrival or Leave Time
-69 , Mohammad Hasan , 2020-12-02 , Wednesday , 9:19:9 am , 9:19:9 am , Invalid Arrival or Leave Time
-70 , Md. Nazmul Hoque , 2020-12-02 , Wednesday , 8:57:59 am , 8:57:59 am , Invalid Arrival or Leave Time
-71 , Nidalia Islam , 2020-12-02 , Wednesday , 8:57:15 am , 8:57:15 am , Invalid Arrival or Leave Time
-72 , Md. Shahin Mia , 2020-12-01 , Tuesday , 1:21:22 pm , 8:19:21 pm , Late Arrived
-73 , Gazi Golam Sarwar , 2020-12-01 , Tuesday , 2:12:59 pm , 7:38:18 pm , Late Arrived
-74 , Abdus Salam Mia , 2020-12-01 , Tuesday , 7:35:32 pm , 7:35:32 pm , Invalid Arrival or Leave Time
-75 , Rakibuzzaman Summon , 2020-12-01 , Tuesday , 9:21:58 am , 7:25:32 pm , Late Arrived
-76 , Md. Motaleb Hossain , 2020-12-01 , Tuesday , 11:50:58 am , 7:20:34 pm , Late Arrived
-77 , Shovon Saha , 2020-12-01 , Tuesday , 11:29:52 am , 6:36:55 pm , Late Arrived
-78 , Umme Suraya Nasrin , 2020-12-01 , Tuesday , 11:54:34 am , 6:0:53 pm , Late Arrived
-79 , Pronab Bindu Majumder , 2020-12-01 , Tuesday , 9:21:26 am , 6:0:45 pm , Late Arrived
-80 , Md Sajjad Hossain , 2020-12-01 , Tuesday , 8:59:44 am , 5:59:51 pm , Present Office Full Time
-81 , Md Anwarul Kader , 2020-12-01 , Tuesday , 8:59:40 am , 5:59:40 pm , Present Office Full Time
-82 , Sushanta Kumar Das , 2020-12-01 , Tuesday , 9:23:48 am , 5:36:8 pm , Late Arrived
-83 , Rafsan Uddin Beg Rizan , 2020-12-01 , Tuesday , 11:20:2 am , 5:32:23 pm , Late Arrived
-84 , D.M-Al-Maher , 2020-12-01 , Tuesday , 12:43:26 pm , 5:11:20 pm , Late Arrived
-85 , Md Taimur Tanvir , 2020-12-01 , Tuesday , 12:59:9 pm , 5:10:14 pm , Late Arrived
-86 , Abdur Rahman Khan , 2020-12-01 , Tuesday , 9:32:38 am , 5:7:3 pm , Late Arrived
-87 , Md. Nasif Hossain Imon , 2020-12-01 , Tuesday , 9:4:15 am , 5:6:32 pm , Late Arrived
-88 , Tapan Kumar , 2020-12-01 , Tuesday , 9:4:9 am , 5:6:25 pm , Late Arrived
-89 , Md. Shukat Ali , 2020-12-01 , Tuesday , 9:4:4 am , 5:6:13 pm , Late Arrived
-90 , Shadia Masud , 2020-12-01 , Tuesday , 9:51:50 am , 5:4:47 pm , Late Arrived
-91 , Mufrad Hossain , 2020-12-01 , Tuesday , 9:29:56 am , 4:23:49 pm , Late Arrived & Early leaved
-92 , Nidalia Islam , 2020-12-01 , Tuesday , 9:0:4 am , 3:35:51 pm , Late Arrived & Early leaved
-93 , Md Aminur Rahman , 2020-12-01 , Tuesday , 10:57:54 am , 2:25:58 pm , Late Arrived & Early leaved
-94 , Saleh Ahmmed , 2020-12-01 , Tuesday , 9:47:41 am , 2:12:1 pm , Late Arrived & Early leaved
-95 , Md. Hafizur Rahman , 2020-12-01 , Tuesday , 1:30:15 pm , 1:30:15 pm , Invalid Arrival or Leave Time
-96 , B M Nural Absar , 2020-12-01 , Tuesday , 1:1:51 pm , 1:1:51 pm , Invalid Arrival or Leave Time
-97 , Md. Apel Mahmud , 2020-12-01 , Tuesday , 12:14:39 pm , 12:14:39 pm , Invalid Arrival or Leave Time
-98 , Abul Khair , 2020-12-01 , Tuesday , 9:3:58 am , 11:47:17 am , Late Arrived & Early leaved
-99 , Md. Saifur Rahman Joarder , 2020-12-01 , Tuesday , 11:28:20 am , 11:28:20 am , Invalid Arrival or Leave Time
-100 , Khandaker Md. Wahid Sadique , 2020-12-01 , Tuesday , 11:20:27 am , 11:20:27 am , Invalid Arrival or Leave Time
-101 , Md. Razib Hasan , 2020-12-01 , Tuesday , 9:36:38 am , 10:18:3 am , Late Arrived & Early leaved
-102 , Md. Abdus Samad Azad , 2020-12-01 , Tuesday , 10:14:2 am , 10:14:2 am , Invalid Arrival or Leave Time
-103 , Pretom Sikder Joy , 2020-12-01 , Tuesday , 9:32:24 am , 9:32:24 am , Invalid Arrival or Leave Time
-104 , Mohammad Hasan , 2020-12-01 , Tuesday , 9:18:56 am , 9:18:56 am , Invalid Arrival or Leave Time
-105 , Suvro Dev Sarker , 2020-12-01 , Tuesday , 9:3:51 am , 9:3:51 am , Invalid Arrival or Leave Time
-106 , Tasnim Rahat , 2020-12-01 , Tuesday , 8:59:50 am , 8:59:50 am , Invalid Arrival or Leave Time
+1 , Md Sajjad Hossain , 2020-11-30 , Monday , 8:59:26 am , 5:39:6 pm , Present Office Full Time
+2 , Gazi Golam Sarwar , 2020-11-30 , Monday , 11:53:34 am , 10:56:43 pm , Late Arrived
+3 , S. M. Rifat Bin Rafiq , 2020-11-30 , Monday , 9:52:33 am , 10:20:10 pm , Late Arrived
+4 , Md. Hafizur Rahman , 2020-11-30 , Monday , 9:58:38 am , 10:6:4 pm , Late Arrived
+5 , Md. Fahim Faisal , 2020-11-30 , Monday , 3:25:29 pm , 9:45:51 pm , Late Arrived
+6 , Bilash Kumar Ghosh , 2020-11-30 , Monday , 9:2:49 am , 9:45:39 pm , Late Arrived
+7 , Md. Touhidur Rahman , 2020-11-30 , Monday , 11:24:19 am , 9:44:21 pm , Late Arrived
+8 , S.M.Shafiquzzama , 2020-11-30 , Monday , 9:3:24 am , 9:43:10 pm , Late Arrived
+9 , Saleh Ahmmed , 2020-11-30 , Monday , 9:13:49 am , 8:15:24 pm , Late Arrived
+10 , B M Nural Absar , 2020-11-30 , Monday , 9:23:43 am , 8:11:48 pm , Late Arrived
+11 , Md. Shahin Mia , 2020-11-30 , Monday , 9:27:45 am , 8:6:28 pm , Late Arrived
+12 , Abdul Latif Helaly  , 2020-11-30 , Monday , 5:49:12 pm , 5:49:12 pm , Invalid Arrival or Leave Time
+13 , Tasnim Rahat , 2020-11-30 , Monday , 8:59:37 am , 5:39:20 pm , Present Office Full Time
+14 , Md Anwarul Kader , 2020-11-30 , Monday , 8:59:43 am , 5:39:15 pm , Present Office Full Time
+15 , Md. Nasif Hossain Imon , 2020-11-30 , Monday , 9:3:0 am , 5:33:34 pm , Late Arrived
+16 , Tapan Kumar , 2020-11-30 , Monday , 9:2:55 am , 5:33:31 pm , Late Arrived
+17 , D.M-Al-Maher , 2020-11-30 , Monday , 5:20:47 pm , 5:20:47 pm , Invalid Arrival or Leave Time
+18 , Md. Shahadat Hossain Mabud , 2020-11-30 , Monday , 9:2:35 am , 5:14:9 pm , Late Arrived
+19 , Sushanta Kumar Das , 2020-11-30 , Monday , 9:35:42 am , 5:5:51 pm , Late Arrived
+20 , Pronab Bindu Majumder , 2020-11-30 , Monday , 9:4:8 am , 4:55:51 pm , Late Arrived & Early leaved
+21 , Mufrad Hossain , 2020-11-30 , Monday , 9:43:0 am , 4:43:20 pm , Late Arrived & Early leaved
+22 , Abdus Salam Mia , 2020-11-30 , Monday , 4:35:15 pm , 4:35:15 pm , Invalid Arrival or Leave Time
+23 , Md. Maminul Islam , 2020-11-30 , Monday , 9:11:50 am , 4:26:6 pm , Late Arrived & Early leaved
+24 , Deen Mohammed , 2020-11-30 , Monday , 4:7:38 pm , 4:7:38 pm , Invalid Arrival or Leave Time
+25 , Pretom Sikder Joy , 2020-11-30 , Monday , 9:6:10 am , 4:5:19 pm , Late Arrived & Early leaved
+26 , Md Aminur Rahman , 2020-11-30 , Monday , 3:43:45 pm , 3:43:45 pm , Invalid Arrival or Leave Time
+27 , Abdur Rahman Khan , 2020-11-30 , Monday , 9:54:18 am , 3:22:50 pm , Late Arrived & Early leaved
+28 , Md Taimur Tanvir , 2020-11-30 , Monday , 11:21:32 am , 3:1:45 pm , Late Arrived & Early leaved
+29 , Md. Motaleb Hossain , 2020-11-30 , Monday , 11:37:10 am , 2:31:37 pm , Late Arrived & Early leaved
+30 , Md. Apel Mahmud , 2020-11-30 , Monday , 1:5:29 pm , 1:5:29 pm , Invalid Arrival or Leave Time
+31 , Umme Suraya Nasrin , 2020-11-30 , Monday , 12:4:59 pm , 12:4:59 pm , Invalid Arrival or Leave Time
+32 , Md. Abdus Samad Azad , 2020-11-30 , Monday , 12:4:50 pm , 12:4:50 pm , Invalid Arrival or Leave Time
+33 , Md. Saifur Rahman Joarder , 2020-11-30 , Monday , 11:36:9 am , 11:36:9 am , Invalid Arrival or Leave Time
+34 , Md. Al-Amin Hossion , 2020-11-30 , Monday , 10:46:19 am , 11:21:56 am , Late Arrived & Early leaved
+35 , Shadia Masud , 2020-11-30 , Monday , 9:53:19 am , 11:19:23 am , Late Arrived & Early leaved
+36 , Khandaker Md. Wahid Sadique , 2020-11-30 , Monday , 10:35:35 am , 10:35:35 am , Invalid Arrival or Leave Time
+37 , Mohammad Hasan , 2020-11-30 , Monday , 9:18:32 am , 9:18:32 am , Invalid Arrival or Leave Time
+38 , Nidalia Islam , 2020-11-30 , Monday , 8:59:32 am , 8:59:32 am , Invalid Arrival or Leave Time
+39 , Abdus Salam Mia , 2020-11-29 , Sunday , 9:1:39 pm , 9:1:39 pm , Invalid Arrival or Leave Time
+40 , Md. Motaleb Hossain , 2020-11-29 , Sunday , 11:17:12 am , 7:42:30 pm , Late Arrived
+41 , Md. Hafizur Rahman , 2020-11-29 , Sunday , 7:36:32 pm , 7:36:32 pm , Invalid Arrival or Leave Time
+42 , Sushanta Kumar Das , 2020-11-29 , Sunday , 8:57:31 am , 5:30:9 pm , Present Office Full Time
+43 , Md. Abdus Samad Azad , 2020-11-29 , Sunday , 12:41:40 pm , 6:6:31 pm , Late Arrived
+44 , Pronab Bindu Majumder , 2020-11-29 , Sunday , 9:5:47 am , 6:3:35 pm , Late Arrived
+45 , B M Nural Absar , 2020-11-29 , Sunday , 2:15:23 pm , 5:30:32 pm , Late Arrived
+46 , S. M. Rifat Bin Rafiq , 2020-11-29 , Sunday , 10:0:16 am , 5:24:39 pm , Late Arrived
+47 , Md. Maminul Islam , 2020-11-29 , Sunday , 9:32:2 am , 6:16:3 pm , Late Arrived
+48 , Md. Touhidur Rahman , 2020-11-29 , Sunday , 10:14:56 am , 5:0:35 pm , Late Arrived
+49 , Shadia Masud , 2020-11-29 , Sunday , 10:14:17 am , 4:56:56 pm , Late Arrived & Early leaved
+50 , Md. Nasif Hossain Imon , 2020-11-29 , Sunday , 9:8:41 am , 4:56:44 pm , Late Arrived & Early leaved
+51 , Bilash Kumar Ghosh , 2020-11-29 , Sunday , 9:11:43 am , 4:56:24 pm , Late Arrived & Early leaved
+52 , Abul Khair , 2020-11-29 , Sunday , 9:8:31 am , 4:49:41 pm , Late Arrived & Early leaved
+53 , S.M.Shafiquzzama , 2020-11-29 , Sunday , 9:8:26 am , 4:49:37 pm , Late Arrived & Early leaved
+54 , D.M-Al-Maher , 2020-11-29 , Sunday , 11:27:21 am , 4:41:56 pm , Late Arrived & Early leaved
+55 , Umme Suraya Nasrin , 2020-11-29 , Sunday , 11:49:19 am , 4:26:23 pm , Late Arrived & Early leaved
+56 , Md Anwarul Kader , 2020-11-29 , Sunday , 9:37:18 am , 3:48:49 pm , Late Arrived & Early leaved
+57 , Abdur Rahman Khan , 2020-11-29 , Sunday , 9:47:53 am , 4:49:57 pm , Late Arrived & Early leaved
+58 , Md Aminur Rahman , 2020-11-29 , Sunday , 3:40:4 pm , 3:40:4 pm , Invalid Arrival or Leave Time
+59 , Md. Apel Mahmud , 2020-11-29 , Sunday , 12:59:20 pm , 1:3:1 pm , Late Arrived & Early leaved
+60 , Md. Fahim Faisal , 2020-11-29 , Sunday , 10:37:55 am , 12:56:56 pm , Late Arrived & Early leaved
+61 , Nidalia Islam , 2020-11-29 , Sunday , 9:57:41 am , 11:29:46 am , Late Arrived & Early leaved
+62 , Deen Mohammed , 2020-11-29 , Sunday , 11:0:36 am , 11:0:36 am , Invalid Arrival or Leave Time
+63 , Md. Shukat Ali , 2020-11-29 , Sunday , 9:52:19 am , 10:43:11 am , Late Arrived & Early leaved
+64 , Md. Saifur Rahman Joarder , 2020-11-29 , Sunday , 10:25:33 am , 10:25:33 am , Invalid Arrival or Leave Time
+65 , Md Sajjad Hossain , 2020-11-29 , Sunday , 9:37:14 am , 9:37:14 am , Invalid Arrival or Leave Time
+66 , Saleh Ahmmed , 2020-11-29 , Sunday , 9:31:58 am , 9:31:58 am , Invalid Arrival or Leave Time
+67 , Mohammad Hasan , 2020-11-29 , Sunday , 9:15:1 am , 9:15:1 am , Invalid Arrival or Leave Time
+68 , Md. Shahadat Hossain Mabud , 2020-11-29 , Sunday , 9:8:14 am , 9:8:35 am , Late Arrived & Early leaved
+69 , B M Nural Absar , 2020-11-28 , Saturday , 9:22:6 am , 3:6:54 pm , Late Arrived & Early leaved
+70 , Abdus Salam Mia , 2020-11-28 , Saturday , 9:25:36 am , 8:50:58 pm , Late Arrived
+71 , Md. Shahin Mia , 2020-11-28 , Saturday , 8:14:27 pm , 8:14:27 pm , Invalid Arrival or Leave Time
+72 , Md. Motaleb Hossain , 2020-11-28 , Saturday , 1:43:20 pm , 6:32:18 pm , Late Arrived
+73 , Pronab Bindu Majumder , 2020-11-28 , Saturday , 9:53:5 am , 5:53:38 pm , Late Arrived
+74 , Umme Suraya Nasrin , 2020-11-28 , Saturday , 10:1:29 am , 5:53:28 pm , Late Arrived
+75 , Rafsan Uddin Beg Rizan , 2020-11-28 , Saturday , 3:17:25 pm , 5:53:22 pm , Late Arrived
+76 , Md Sajjad Hossain , 2020-11-28 , Saturday , 10:1:39 am , 5:53:14 pm , Late Arrived
+77 , Md. Nasif Hossain Imon , 2020-11-28 , Saturday , 10:15:12 am , 5:53:10 pm , Late Arrived
+78 , Abul Khair , 2020-11-28 , Saturday , 11:25:33 am , 5:53:7 pm , Late Arrived
+79 , Md Anwarul Kader , 2020-11-28 , Saturday , 10:1:35 am , 5:53:2 pm , Late Arrived
+80 , Md. Touhidur Rahman , 2020-11-28 , Saturday , 10:15:7 am , 5:52:57 pm , Late Arrived
+81 , S.M.Shafiquzzama , 2020-11-28 , Saturday , 11:20:51 am , 5:52:40 pm , Late Arrived
+82 , Shadia Masud , 2020-11-28 , Saturday , 10:16:37 am , 5:51:22 pm , Late Arrived
+83 , Sushanta Kumar Das , 2020-11-28 , Saturday , 10:29:46 am , 5:40:46 pm , Late Arrived
+84 , Md. Apel Mahmud , 2020-11-28 , Saturday , 9:52:50 am , 4:4:10 pm , Late Arrived & Early leaved
+85 , Bilash Kumar Ghosh , 2020-11-28 , Saturday , 11:3:49 am , 4:3:55 pm , Late Arrived & Early leaved
+86 , Mufrad Hossain , 2020-11-28 , Saturday , 10:32:32 am , 3:59:52 pm , Late Arrived & Early leaved
+87 , Md. Saifur Rahman Joarder , 2020-11-28 , Saturday , 2:55:32 pm , 2:55:32 pm , Invalid Arrival or Leave Time
+88 , Deen Mohammed , 2020-11-28 , Saturday , 1:52:19 pm , 1:52:19 pm , Invalid Arrival or Leave Time
+89 , Md Aminur Rahman , 2020-11-28 , Saturday , 1:45:44 pm , 1:45:44 pm , Invalid Arrival or Leave Time
+90 , Md. Maminul Islam , 2020-11-28 , Saturday , 1:29:9 pm , 1:29:9 pm , Invalid Arrival or Leave Time
+91 , Saleh Ahmmed , 2020-11-28 , Saturday , 9:7:6 am , 9:7:6 am , Invalid Arrival or Leave Time
+92 , Pretom Sikder Joy , 2020-11-28 , Saturday , 1:6:27 pm , 1:6:27 pm , Invalid Arrival or Leave Time
+93 , Nidalia Islam , 2020-11-28 , Saturday , 11:59:49 am , 11:59:49 am , Invalid Arrival or Leave Time
+94 , Gazi Golam Sarwar , 2020-11-28 , Saturday , 11:53:44 am , 11:53:44 am , Invalid Arrival or Leave Time
+95 , D.M-Al-Maher , 2020-11-28 , Saturday , 11:2:23 am , 11:2:23 am , Invalid Arrival or Leave Time
+96 , Md Taimur Tanvir , 2020-11-28 , Saturday , 10:58:14 am , 10:58:14 am , Invalid Arrival or Leave Time
+97 , Md. Motaleb Hossain , 2020-11-27 , Friday , 2:10:39 pm , 9:54:39 pm , Late Arrived
+98 , Abdus Salam Mia , 2020-11-27 , Friday , 2:32:0 pm , 8:41:4 pm , Late Arrived
+99 , Khandaker Md. Wahid Sadique , 2020-11-27 , Friday , 6:57:1 pm , 6:57:1 pm , Invalid Arrival or Leave Time
+100 , Md. Shahin Mia , 2020-11-27 , Friday , 11:3:6 am , 3:37:12 pm , Late Arrived & Early leaved
+101 , Tasnim Rahat , 2020-11-26 , Thursday , 8:59:39 am , 8:59:39 am , Invalid Arrival or Leave Time
+102 , Mufrad Hossain , 2020-11-26 , Thursday , 9:37:56 am , 7:13:51 pm , Late Arrived
+103 , Md. Nazmul Hoque , 2020-11-26 , Thursday , 9:0:57 am , 6:58:54 pm , Late Arrived
+104 , Md. Shahadat Hossain Mabud , 2020-11-26 , Thursday , 9:7:43 am , 6:53:51 pm , Late Arrived
+105 , Sushanta Kumar Das , 2020-11-26 , Thursday , 9:42:27 am , 6:53:41 pm , Late Arrived
+106 , Pronab Bindu Majumder , 2020-11-26 , Thursday , 12:42:38 pm , 6:53:37 pm , Late Arrived
+107 , Bilash Kumar Ghosh , 2020-11-26 , Thursday , 9:8:34 am , 6:53:28 pm , Late Arrived
+108 , Tapan Kumar , 2020-11-26 , Thursday , 9:8:25 am , 6:53:1 pm , Late Arrived
+109 , Md. Maminul Islam , 2020-11-26 , Thursday , 9:35:31 am , 6:52:34 pm , Late Arrived
+110 , Md. Touhidur Rahman , 2020-11-26 , Thursday , 9:15:7 am , 6:52:29 pm , Late Arrived
+111 , Abdus Salam Mia , 2020-11-26 , Thursday , 3:38:9 pm , 8:27:9 pm , Late Arrived
+112 , S. M. Rifat Bin Rafiq , 2020-11-26 , Thursday , 9:47:3 am , 6:52:18 pm , Late Arrived
+113 , S.M.Shafiquzzama , 2020-11-26 , Thursday , 9:8:16 am , 6:52:2 pm , Late Arrived
+114 , Md Sajjad Hossain , 2020-11-26 , Thursday , 8:59:54 am , 6:51:33 pm , Present Office Full Time
+115 , Md. Abdus Samad Azad , 2020-11-26 , Thursday , 9:13:26 am , 4:53:24 pm , Late Arrived & Early leaved
+116 , Abul Khair , 2020-11-26 , Thursday , 9:8:20 am , 4:48:32 pm , Late Arrived & Early leaved
+117 , Md. Saifur Rahman Joarder , 2020-11-26 , Thursday , 4:25:51 pm , 4:25:51 pm , Invalid Arrival or Leave Time
+118 , Umme Suraya Nasrin , 2020-11-26 , Thursday , 12:1:42 pm , 4:3:45 pm , Late Arrived & Early leaved
+119 , Abdur Rahman Khan , 2020-11-26 , Thursday , 9:11:16 am , 3:51:34 pm , Late Arrived & Early leaved
+120 , Gazi Golam Sarwar , 2020-11-26 , Thursday , 12:20:59 pm , 3:37:49 pm , Late Arrived & Early leaved
+121 , Shovon Saha , 2020-11-26 , Thursday , 10:40:40 am , 2:55:18 pm , Late Arrived & Early leaved
+122 , Khandaker Md. Wahid Sadique , 2020-11-26 , Thursday , 2:33:8 pm , 2:33:8 pm , Invalid Arrival or Leave Time
+123 , D.M-Al-Maher , 2020-11-26 , Thursday , 12:24:17 pm , 2:14:27 pm , Late Arrived & Early leaved
+124 , Md. Shukat Ali , 2020-11-26 , Thursday , 9:7:38 am , 1:48:16 pm , Late Arrived & Early leaved
+125 , Md. Shahin Mia , 2020-11-26 , Thursday , 12:35:34 pm , 12:35:34 pm , Invalid Arrival or Leave Time
+126 , Md. Fahim Faisal , 2020-11-26 , Thursday , 10:7:2 am , 11:57:2 am , Late Arrived & Early leaved
+127 , Rafsan Uddin Beg Rizan , 2020-11-26 , Thursday , 11:38:30 am , 11:38:30 am , Invalid Arrival or Leave Time
+128 , Saleh Ahmmed , 2020-11-26 , Thursday , 11:24:30 am , 11:24:30 am , Invalid Arrival or Leave Time
+129 , Pretom Sikder Joy , 2020-11-26 , Thursday , 9:19:22 am , 11:22:40 am , Late Arrived & Early leaved
+130 , Md. Apel Mahmud , 2020-11-26 , Thursday , 11:17:13 am , 11:17:13 am , Invalid Arrival or Leave Time
+131 , Md Taimur Tanvir , 2020-11-26 , Thursday , 10:27:46 am , 10:27:46 am , Invalid Arrival or Leave Time
+132 , B M Nural Absar , 2020-11-26 , Thursday , 10:26:37 am , 10:26:37 am , Invalid Arrival or Leave Time
+133 , Shadia Masud , 2020-11-26 , Thursday , 9:48:56 am , 9:48:56 am , Invalid Arrival or Leave Time
+134 , Md. Nasif Hossain Imon , 2020-11-26 , Thursday , 9:8:30 am , 6:52:24 pm , Late Arrived
+135 , Md Anwarul Kader , 2020-11-26 , Thursday , 9:0:25 am , 9:0:25 am , Invalid Arrival or Leave Time
+136 , Nidalia Islam , 2020-11-26 , Thursday , 8:59:49 am , 8:59:49 am , Invalid Arrival or Leave Time
+137 , Md. Shahin Mia , 2020-11-25 , Wednesday , 8:55:41 pm , 8:55:41 pm , Invalid Arrival or Leave Time
+138 , Shovon Saha , 2020-11-25 , Wednesday , 11:26:12 am , 8:1:6 pm , Late Arrived
+139 , Pronab Bindu Majumder , 2020-11-25 , Wednesday , 8:38:49 am , 6:38:53 pm , Present Office Full Time
+140 , Sushanta Kumar Das , 2020-11-25 , Wednesday , 9:31:44 am , 6:34:23 pm , Late Arrived
+141 , Abdus Salam Mia , 2020-11-25 , Wednesday , 4:56:40 pm , 6:32:27 pm , Late Arrived
+142 , Rafsan Uddin Beg Rizan , 2020-11-25 , Wednesday , 10:42:6 am , 6:22:32 pm , Late Arrived
+143 , Gazi Golam Sarwar , 2020-11-25 , Wednesday , 2:15:45 pm , 6:22:26 pm , Late Arrived
+144 , Rakibuzzaman Summon , 2020-11-25 , Wednesday , 9:21:45 am , 5:58:21 pm , Late Arrived
+145 , Bilash Kumar Ghosh , 2020-11-25 , Wednesday , 9:45:31 am , 5:37:19 pm , Late Arrived
+146 , Tapan Kumar , 2020-11-25 , Wednesday , 9:45:35 am , 5:35:43 pm , Late Arrived
+147 , Md. Nasif Hossain Imon , 2020-11-25 , Wednesday , 9:45:23 am , 5:35:36 pm , Late Arrived
+148 , D.M-Al-Maher , 2020-11-25 , Wednesday , 5:35:32 pm , 5:35:32 pm , Invalid Arrival or Leave Time
+149 , Md. Touhidur Rahman , 2020-11-25 , Wednesday , 10:12:16 am , 5:33:44 pm , Late Arrived
+150 , S.M.Shafiquzzama , 2020-11-25 , Wednesday , 9:33:12 am , 5:33:30 pm , Late Arrived
+151 , Md Sajjad Hossain , 2020-11-25 , Wednesday , 8:57:12 am , 5:28:52 pm , Present Office Full Time
+152 , Md. Hafizur Rahman , 2020-11-25 , Wednesday , 7:10:43 am , 7:10:43 am , Invalid Arrival or Leave Time
+153 , Md. Apel Mahmud , 2020-11-25 , Wednesday , 1:7:19 pm , 5:21:49 pm , Late Arrived
+154 , Md. Abdus Samad Azad , 2020-11-25 , Wednesday , 9:14:31 am , 5:6:59 pm , Late Arrived
+155 , Shadia Masud , 2020-11-25 , Wednesday , 9:52:49 am , 5:5:42 pm , Late Arrived
+156 , Pretom Sikder Joy , 2020-11-25 , Wednesday , 9:47:13 am , 5:5:29 pm , Late Arrived
+157 , Umme Suraya Nasrin , 2020-11-25 , Wednesday , 11:55:49 am , 4:55:4 pm , Late Arrived & Early leaved
+158 , B M Nural Absar , 2020-11-25 , Wednesday , 9:36:44 am , 4:50:33 pm , Late Arrived & Early leaved
+159 , Mufrad Hossain , 2020-11-25 , Wednesday , 9:34:9 am , 4:47:31 pm , Late Arrived & Early leaved
+160 , Md. Shahadat Hossain Mabud , 2020-11-25 , Wednesday , 7:24:17 am , 4:34:44 pm , Early leaved
+161 ,  , 2020-11-25 , Wednesday , 2:46:39 pm , 2:46:39 pm , Invalid Arrival or Leave Time
+162 , Md. Shukat Ali , 2020-11-25 , Wednesday , 9:45:27 am , 12:33:11 pm , Late Arrived & Early leaved
+163 , Md. Saifur Rahman Joarder , 2020-11-25 , Wednesday , 11:26:31 am , 11:26:31 am , Invalid Arrival or Leave Time
+164 , Abul Khair , 2020-11-25 , Wednesday , 9:45:18 am , 10:50:23 am , Late Arrived & Early leaved
+165 , Tasnim Rahat , 2020-11-25 , Wednesday , 9:0:23 am , 10:48:16 am , Late Arrived & Early leaved
+166 , Md Taimur Tanvir , 2020-11-25 , Wednesday , 10:6:59 am , 10:6:59 am , Invalid Arrival or Leave Time
+167 , Abdur Rahman Khan , 2020-11-25 , Wednesday , 9:44:6 am , 9:44:6 am , Invalid Arrival or Leave Time
+168 , Saleh Ahmmed , 2020-11-25 , Wednesday , 9:38:41 am , 9:38:41 am , Invalid Arrival or Leave Time
+169 , Md. Nazmul Hoque , 2020-11-25 , Wednesday , 8:58:5 am , 9:0:2 am , Early leaved
+170 , Nidalia Islam , 2020-11-25 , Wednesday , 8:57:29 am , 8:57:29 am , Invalid Arrival or Leave Time
+171 , Md Anwarul Kader , 2020-11-25 , Wednesday , 8:57:18 am , 5:28:48 pm , Present Office Full Time
+172 , Rafsan Uddin Beg Rizan , 2020-11-24 , Tuesday , 12:21:19 pm , 4:41:15 pm , Late Arrived & Early leaved
+173 , Md. Hafizur Rahman , 2020-11-24 , Tuesday , 11:8:7 am , 8:50:41 pm , Late Arrived
+174 , Md. Shahin Mia , 2020-11-24 , Tuesday , 1:56:46 pm , 8:10:33 pm , Late Arrived
+175 , Abdus Salam Mia , 2020-11-24 , Tuesday , 8:59:29 am , 8:52:7 pm , Present Office Full Time
+176 , Shovon Saha , 2020-11-24 , Tuesday , 11:50:16 am , 6:57:6 pm , Late Arrived
+177 , Md. Abdus Samad Azad , 2020-11-24 , Tuesday , 9:33:41 am , 6:5:13 pm , Late Arrived
+178 , Rakibuzzaman Summon , 2020-11-24 , Tuesday , 9:13:30 am , 5:40:53 pm , Late Arrived
+179 , Tapan Kumar , 2020-11-24 , Tuesday , 9:3:52 am , 5:16:11 pm , Late Arrived
+180 , Bilash Kumar Ghosh , 2020-11-24 , Tuesday , 9:4:5 am , 5:16:6 pm , Late Arrived
+181 , Md. Nasif Hossain Imon , 2020-11-24 , Tuesday , 9:4:11 am , 5:15:38 pm , Late Arrived
+182 , Md. Shukat Ali , 2020-11-24 , Tuesday , 9:3:58 am , 5:15:29 pm , Late Arrived
+183 , D.M-Al-Maher , 2020-11-24 , Tuesday , 2:7:32 pm , 5:11:18 pm , Late Arrived
+184 , Sushanta Kumar Das , 2020-11-24 , Tuesday , 9:28:54 am , 5:7:44 pm , Late Arrived
+185 , Pronab Bindu Majumder , 2020-11-24 , Tuesday , 9:6:52 am , 5:5:11 pm , Late Arrived
+186 , Md Sajjad Hossain , 2020-11-24 , Tuesday , 8:52:59 am , 5:4:56 pm , Present Office Full Time
+187 , Md Anwarul Kader , 2020-11-24 , Tuesday , 8:52:54 am , 5:4:38 pm , Present Office Full Time
+188 , Mufrad Hossain , 2020-11-24 , Tuesday , 10:2:33 am , 5:4:31 pm , Late Arrived
+189 , Shadia Masud , 2020-11-24 , Tuesday , 10:4:7 am , 5:4:25 pm , Late Arrived
+190 , B M Nural Absar , 2020-11-24 , Tuesday , 4:16:28 pm , 5:0:32 pm , Late Arrived
+191 , Khandaker Md. Wahid Sadique , 2020-11-24 , Tuesday , 10:18:56 am , 4:29:7 pm , Late Arrived & Early leaved
+192 , Md Aminur Rahman , 2020-11-24 , Tuesday , 2:47:9 pm , 2:47:9 pm , Invalid Arrival or Leave Time
+193 , Mohammad Hasan , 2020-11-24 , Tuesday , 9:24:16 am , 2:3:35 pm , Late Arrived & Early leaved
+194 , Tasnim Rahat , 2020-11-24 , Tuesday , 8:54:39 am , 1:33:52 pm , Early leaved
+195 , Gazi Golam Sarwar , 2020-11-24 , Tuesday , 12:58:40 pm , 12:58:40 pm , Invalid Arrival or Leave Time
+196 , Umme Suraya Nasrin , 2020-11-24 , Tuesday , 11:57:38 am , 11:57:38 am , Invalid Arrival or Leave Time
+197 , Md. Saifur Rahman Joarder , 2020-11-24 , Tuesday , 11:27:47 am , 11:27:47 am , Invalid Arrival or Leave Time
+198 , Abdur Rahman Khan , 2020-11-24 , Tuesday , 9:26:41 am , 10:49:59 am , Late Arrived & Early leaved
+199 , Md. Al-Amin Hossion , 2020-11-24 , Tuesday , 10:33:31 am , 10:37:0 am , Late Arrived & Early leaved
+200 , Md. Shahadat Hossain Mabud , 2020-11-24 , Tuesday , 8:29:23 am , 10:32:30 am , Early leaved
+201 , Md. Fahim Faisal , 2020-11-24 , Tuesday , 9:58:12 am , 9:58:46 am , Late Arrived & Early leaved
+202 , Md. Apel Mahmud , 2020-11-24 , Tuesday , 9:52:32 am , 9:52:32 am , Invalid Arrival or Leave Time
+203 , Abul Khair , 2020-11-24 , Tuesday , 9:4:15 am , 9:37:43 am , Late Arrived & Early leaved
+204 , Nidalia Islam , 2020-11-24 , Tuesday , 9:0:53 am , 9:3:25 am , Late Arrived & Early leaved
+205 , Pretom Sikder Joy , 2020-11-24 , Tuesday , 8:58:56 am , 8:58:56 am , Invalid Arrival or Leave Time
+206 , Shovon Saha , 2020-11-23 , Monday , 11:51:18 am , 7:33:51 pm , Late Arrived
+207 , Gazi Golam Sarwar , 2020-11-23 , Monday , 11:46:19 am , 8:20:48 pm , Late Arrived
+208 , Md. Nasif Hossain Imon , 2020-11-23 , Monday , 8:38:46 am , 8:20:39 pm , Present Office Full Time
+209 , Md. Hafizur Rahman , 2020-11-23 , Monday , 11:21:6 am , 7:52:26 pm , Late Arrived
+210 , Abdus Salam Mia , 2020-11-23 , Monday , 9:4:52 am , 9:51:24 pm , Late Arrived
+211 , Rakibuzzaman Summon , 2020-11-23 , Monday , 9:46:54 am , 7:5:51 pm , Late Arrived
+212 , Md Taimur Tanvir , 2020-11-23 , Monday , 11:1:20 am , 5:47:6 pm , Late Arrived
+213 , Bilash Kumar Ghosh , 2020-11-23 , Monday , 8:38:50 am , 5:30:26 pm , Present Office Full Time
+214 , Umme Suraya Nasrin , 2020-11-23 , Monday , 11:55:58 am , 5:27:5 pm , Late Arrived
+215 , Tapan Kumar , 2020-11-23 , Monday , 8:38:36 am , 5:26:17 pm , Present Office Full Time
+216 , Md. Saifur Rahman Joarder , 2020-11-23 , Monday , 11:51:44 am , 11:51:44 am , Invalid Arrival or Leave Time
+217 , Pronab Bindu Majumder , 2020-11-23 , Monday , 9:5:5 am , 5:25:18 pm , Late Arrived
+218 ,  , 2020-11-23 , Monday , 10:15:57 am , 5:24:4 pm , Late Arrived
+219 , D.M-Al-Maher , 2020-11-23 , Monday , 11:52:50 am , 5:20:39 pm , Late Arrived
+220 , Rafsan Uddin Beg Rizan , 2020-11-23 , Monday , 10:11:53 am , 5:14:44 pm , Late Arrived
+221 , S. M. Rifat Bin Rafiq , 2020-11-23 , Monday , 10:7:21 am , 5:1:19 pm , Late Arrived
+222 , Shadia Masud , 2020-11-23 , Monday , 9:56:17 am , 5:0:28 pm , Late Arrived
+223 , Md Anwarul Kader , 2020-11-23 , Monday , 10:12:10 am , 4:35:11 pm , Late Arrived & Early leaved
+224 , Abdur Rahman Khan , 2020-11-23 , Monday , 10:23:38 am , 4:16:58 pm , Late Arrived & Early leaved
+225 ,  , 2020-11-23 , Monday , 9:18:4 am , 3:53:8 pm , Late Arrived & Early leaved
+226 , Mufrad Hossain , 2020-11-23 , Monday , 9:53:8 am , 3:2:14 pm , Late Arrived & Early leaved
+227 , B M Nural Absar , 2020-11-23 , Monday , 8:48:11 am , 2:34:1 pm , Early leaved
+228 , Md. Shahadat Hossain Mabud , 2020-11-23 , Monday , 8:38:54 am , 2:2:26 pm , Early leaved
+229 , Sushanta Kumar Das , 2020-11-23 , Monday , 9:28:38 am , 1:35:16 pm , Late Arrived & Early leaved
+230 , Tasnim Rahat , 2020-11-23 , Monday , 12:58:25 pm , 12:58:25 pm , Invalid Arrival or Leave Time
+231 , Md. Shukat Ali , 2020-11-23 , Monday , 8:38:41 am , 12:36:45 pm , Early leaved
+232 , S.M.Shafiquzzama , 2020-11-23 , Monday , 12:29:18 pm , 5:25:52 pm , Late Arrived
+233 , Md. Apel Mahmud , 2020-11-23 , Monday , 11:11:56 am , 11:11:56 am , Invalid Arrival or Leave Time
+234 , Md. Razib Hasan , 2020-11-23 , Monday , 10:18:19 am , 10:18:19 am , Invalid Arrival or Leave Time
+235 , Nidalia Islam , 2020-11-23 , Monday , 10:18:5 am , 10:18:5 am , Invalid Arrival or Leave Time
+236 , Md Sajjad Hossain , 2020-11-23 , Monday , 10:12:14 am , 10:12:14 am , Invalid Arrival or Leave Time
+237 , Md. Nazmul Hoque , 2020-11-23 , Monday , 10:12:5 am , 10:12:5 am , Invalid Arrival or Leave Time
+238 , Md. Al-Amin Hossion , 2020-11-23 , Monday , 8:56:26 am , 10:6:29 am , Early leaved
+239 , Saleh Ahmmed , 2020-11-23 , Monday , 9:38:54 am , 9:38:54 am , Invalid Arrival or Leave Time
+240 , Pretom Sikder Joy , 2020-11-23 , Monday , 9:36:47 am , 9:36:47 am , Invalid Arrival or Leave Time
+241 , Mohammad Hasan , 2020-11-23 , Monday , 9:34:4 am , 9:34:4 am , Invalid Arrival or Leave Time
+242 , Abdus Salam Mia , 2020-11-22 , Sunday , 5:15:49 pm , 10:10:42 pm , Late Arrived
+243 , Md. Hafizur Rahman , 2020-11-22 , Sunday , 10:50:40 am , 9:1:1 pm , Late Arrived
+244 , Md. Nazmul Hoque , 2020-11-22 , Sunday , 9:10:21 am , 9:10:21 am , Invalid Arrival or Leave Time
+245 , Saleh Ahmmed , 2020-11-22 , Sunday , 9:26:16 am , 6:24:1 pm , Late Arrived
+246 , Pronab Bindu Majumder , 2020-11-22 , Sunday , 9:20:28 am , 4:56:34 pm , Late Arrived & Early leaved
+247 , Md. Abdus Samad Azad , 2020-11-22 , Sunday , 4:50:26 pm , 4:50:26 pm , Invalid Arrival or Leave Time
+248 , Sushanta Kumar Das , 2020-11-22 , Sunday , 9:55:31 am , 3:53:38 pm , Late Arrived & Early leaved
+249 ,  , 2020-11-22 , Sunday , 9:20:15 am , 3:29:58 pm , Late Arrived & Early leaved
+250 , Md. Nasif Hossain Imon , 2020-11-22 , Sunday , 9:18:41 am , 3:29:51 pm , Late Arrived & Early leaved
+251 , Rafsan Uddin Beg Rizan , 2020-11-22 , Sunday , 10:55:50 am , 3:27:33 pm , Late Arrived & Early leaved
+252 , Gazi Golam Sarwar , 2020-11-22 , Sunday , 1:17:3 pm , 3:14:45 pm , Late Arrived & Early leaved
+253 , Md. Saifur Rahman Joarder , 2020-11-22 , Sunday , 2:56:38 pm , 2:56:38 pm , Invalid Arrival or Leave Time
+254 , Md. Apel Mahmud , 2020-11-22 , Sunday , 12:13:46 pm , 2:27:36 pm , Late Arrived & Early leaved
+255 , Md Sajjad Hossain , 2020-11-22 , Sunday , 9:10:15 am , 1:57:45 pm , Late Arrived & Early leaved
+256 , Pretom Sikder Joy , 2020-11-22 , Sunday , 9:32:28 am , 1:55:46 pm , Late Arrived & Early leaved
+257 , Mufrad Hossain , 2020-11-22 , Sunday , 9:40:45 am , 1:44:40 pm , Late Arrived & Early leaved
+258 , Shadia Masud , 2020-11-22 , Sunday , 9:47:28 am , 1:19:40 pm , Late Arrived & Early leaved
+259 , Mohammad Hasan , 2020-11-22 , Sunday , 9:28:20 am , 1:2:22 pm , Late Arrived & Early leaved
+260 , Shovon Saha , 2020-11-22 , Sunday , 12:37:27 pm , 12:37:27 pm , Invalid Arrival or Leave Time
+261 , B M Nural Absar , 2020-11-22 , Sunday , 12:35:26 pm , 12:35:26 pm , Invalid Arrival or Leave Time
+262 , Md Aminur Rahman , 2020-11-22 , Sunday , 10:51:58 am , 12:21:19 pm , Late Arrived & Early leaved
+263 , Umme Suraya Nasrin , 2020-11-22 , Sunday , 12:17:35 pm , 12:17:35 pm , Invalid Arrival or Leave Time
+264 ,  , 2020-11-22 , Sunday , 12:2:36 pm , 12:7:30 pm , Late Arrived & Early leaved
+265 , Md. Maminul Islam , 2020-11-22 , Sunday , 9:38:37 am , 11:52:59 am , Late Arrived & Early leaved
+266 ,  , 2020-11-22 , Sunday , 11:45:35 am , 11:45:40 am , Late Arrived & Early leaved
+267 ,  , 2020-11-22 , Sunday , 11:43:41 am , 11:43:54 am , Late Arrived & Early leaved
+268 ,  , 2020-11-22 , Sunday , 11:40:15 am , 11:40:15 am , Invalid Arrival or Leave Time
+269 ,  , 2020-11-22 , Sunday , 11:29:47 am , 11:29:52 am , Late Arrived & Early leaved
+270 ,  , 2020-11-22 , Sunday , 11:3:19 am , 11:28:6 am , Late Arrived & Early leaved
+271 , Tapan Kumar , 2020-11-22 , Sunday , 9:18:23 am , 11:6:13 am , Late Arrived & Early leaved
+272 , Md. Al-Amin Hossion , 2020-11-22 , Sunday , 9:18:50 am , 10:22:29 am , Late Arrived & Early leaved
+273 , Bilash Kumar Ghosh , 2020-11-22 , Sunday , 9:18:46 am , 10:7:16 am , Late Arrived & Early leaved
+274 ,  , 2020-11-22 , Sunday , 9:22:50 am , 9:22:50 am , Invalid Arrival or Leave Time
+275 , Md. Shahadat Hossain Mabud , 2020-11-22 , Sunday , 9:18:19 am , 9:18:19 am , Invalid Arrival or Leave Time
+276 , Abdus Salam Mia , 2020-11-21 , Saturday , 7:4:28 pm , 7:4:28 pm , Invalid Arrival or Leave Time
+277 , Khandaker Md. Wahid Sadique , 2020-11-21 , Saturday , 6:24:46 pm , 6:24:46 pm , Invalid Arrival or Leave Time
+278 , Abdus Salam Mia , 2020-11-20 , Friday , 11:27:19 am , 8:18:50 pm , Late Arrived
+279 , Saleh Ahmmed , 2020-11-20 , Friday , 5:2:50 pm , 5:2:50 pm , Invalid Arrival or Leave Time
+280 , Md. Motaleb Hossain , 2020-11-20 , Friday , 8:1:40 am , 9:29:2 am , Early leaved
+281 , Nidalia Islam , 2020-11-19 , Thursday , 8:42:53 am , 8:42:53 am , Invalid Arrival or Leave Time
+282 , Abdus Salam Mia , 2020-11-19 , Thursday , 8:45:9 am , 8:26:19 pm , Present Office Full Time
+283 , Md. Hafizur Rahman , 2020-11-19 , Thursday , 3:52:44 pm , 7:47:18 pm , Late Arrived
+284 , Md. Motaleb Hossain , 2020-11-19 , Thursday , 10:15:23 am , 8:32:47 pm , Late Arrived
+285 ,  , 2020-11-19 , Thursday , 5:50:49 pm , 6:12:16 pm , Late Arrived
+286 , Khandaker Md. Wahid Sadique , 2020-11-19 , Thursday , 10:26:16 am , 5:42:44 pm , Late Arrived
+287 , Shovon Saha , 2020-11-19 , Thursday , 1:5:42 pm , 5:34:49 pm , Late Arrived
+288 , Bilash Kumar Ghosh , 2020-11-19 , Thursday , 9:7:51 am , 4:36:23 pm , Late Arrived & Early leaved
+289 , Pretom Sikder Joy , 2020-11-19 , Thursday , 12:15:32 pm , 3:25:40 pm , Late Arrived & Early leaved
+290 , Md. Saifur Rahman Joarder , 2020-11-19 , Thursday , 2:47:18 pm , 2:47:18 pm , Invalid Arrival or Leave Time
+291 , Md. Shahadat Hossain Mabud , 2020-11-19 , Thursday , 9:7:30 am , 2:37:42 pm , Late Arrived & Early leaved
+292 , Md. Shahin Mia , 2020-11-19 , Thursday , 2:33:37 pm , 2:33:37 pm , Invalid Arrival or Leave Time
+293 , Mohammad Hasan , 2020-11-19 , Thursday , 10:17:19 am , 2:17:44 pm , Late Arrived & Early leaved
+294 , Mufrad Hossain , 2020-11-19 , Thursday , 9:29:45 am , 2:2:38 pm , Late Arrived & Early leaved
+295 , Abul Khair , 2020-11-19 , Thursday , 9:36:24 am , 1:49:54 pm , Late Arrived & Early leaved
+296 , Md. Apel Mahmud , 2020-11-19 , Thursday , 12:15:12 pm , 1:46:39 pm , Late Arrived & Early leaved
+297 ,  , 2020-11-19 , Thursday , 9:10:59 am , 1:20:40 pm , Late Arrived & Early leaved
+298 , Umme Suraya Nasrin , 2020-11-19 , Thursday , 12:14:20 pm , 12:14:20 pm , Invalid Arrival or Leave Time
+299 , Md Aminur Rahman , 2020-11-19 , Thursday , 10:32:32 am , 11:27:10 am , Late Arrived & Early leaved
+300 , Gazi Golam Sarwar , 2020-11-19 , Thursday , 11:22:48 am , 3:15:11 pm , Late Arrived & Early leaved
+301 , Md. Razib Hasan , 2020-11-19 , Thursday , 11:17:46 am , 11:17:46 am , Invalid Arrival or Leave Time
+302 , Md. Nasif Hossain Imon , 2020-11-19 , Thursday , 9:8:47 am , 11:10:57 am , Late Arrived & Early leaved
+303 , Md. Al-Amin Hossion , 2020-11-19 , Thursday , 9:7:26 am , 10:13:40 am , Late Arrived & Early leaved
+304 , Sushanta Kumar Das , 2020-11-19 , Thursday , 10:3:22 am , 10:3:22 am , Invalid Arrival or Leave Time
+305 , Shadia Masud , 2020-11-19 , Thursday , 9:54:24 am , 9:54:24 am , Invalid Arrival or Leave Time
+306 , Md. Shahin Mia , 2020-11-18 , Wednesday , 11:39:19 am , 9:5:9 pm , Late Arrived
+307 , Md. Motaleb Hossain , 2020-11-18 , Wednesday , 8:55:41 am , 8:31:18 pm , Present Office Full Time
+308 , Md. Hafizur Rahman , 2020-11-18 , Wednesday , 11:55:16 am , 7:35:55 pm , Late Arrived
+309 , Abdus Salam Mia , 2020-11-18 , Wednesday , 5:42:44 pm , 7:2:12 pm , Late Arrived
+310 , Saleh Ahmmed , 2020-11-18 , Wednesday , 9:40:10 am , 5:40:25 pm , Late Arrived
+311 , Shovon Saha , 2020-11-18 , Wednesday , 11:50:41 am , 5:7:58 pm , Late Arrived
+312 , Gazi Golam Sarwar , 2020-11-18 , Wednesday , 4:28:0 pm , 4:28:0 pm , Invalid Arrival or Leave Time
+313 , Md. Shahadat Hossain Mabud , 2020-11-18 , Wednesday , 8:37:56 am , 4:15:48 pm , Early leaved
+314 ,  , 2020-11-18 , Wednesday , 3:5:10 pm , 4:13:7 pm , Late Arrived & Early leaved
+315 , Md. Apel Mahmud , 2020-11-18 , Wednesday , 12:2:6 pm , 3:55:14 pm , Late Arrived & Early leaved
+316 , Md. Nasif Hossain Imon , 2020-11-18 , Wednesday , 11:1:43 am , 3:45:21 pm , Late Arrived & Early leaved
+317 , Khandaker Md. Wahid Sadique , 2020-11-18 , Wednesday , 3:21:59 pm , 3:21:59 pm , Invalid Arrival or Leave Time
+318 ,  , 2020-11-18 , Wednesday , 12:39:19 pm , 3:12:1 pm , Late Arrived & Early leaved
+319 , Md Sajjad Hossain , 2020-11-18 , Wednesday , 3:5:5 pm , 3:5:5 pm , Invalid Arrival or Leave Time
+320 , Abul Khair , 2020-11-18 , Wednesday , 2:57:57 pm , 2:57:57 pm , Invalid Arrival or Leave Time
+321 ,  , 2020-11-18 , Wednesday , 2:18:47 pm , 2:54:5 pm , Late Arrived & Early leaved
+322 , Bilash Kumar Ghosh , 2020-11-18 , Wednesday , 8:37:51 am , 8:37:51 am , Invalid Arrival or Leave Time
+323 , Pretom Sikder Joy , 2020-11-18 , Wednesday , 2:2:50 pm , 2:2:50 pm , Invalid Arrival or Leave Time
+324 , Shadia Masud , 2020-11-18 , Wednesday , 9:56:59 am , 1:44:8 pm , Late Arrived & Early leaved
+325 , Sushanta Kumar Das , 2020-11-18 , Wednesday , 10:51:1 am , 1:18:19 pm , Late Arrived & Early leaved
+326 , Umme Suraya Nasrin , 2020-11-18 , Wednesday , 12:12:33 pm , 12:12:33 pm , Invalid Arrival or Leave Time
+327 , Md. Saifur Rahman Joarder , 2020-11-18 , Wednesday , 11:51:0 am , 11:51:0 am , Invalid Arrival or Leave Time
+328 , Md Aminur Rahman , 2020-11-18 , Wednesday , 10:27:57 am , 10:27:57 am , Invalid Arrival or Leave Time
+329 , Pronab Bindu Majumder , 2020-11-18 , Wednesday , 8:57:15 am , 8:57:15 am , Invalid Arrival or Leave Time
+330 , Md. Nazmul Hoque , 2020-11-17 , Tuesday , 8:53:1 am , 4:36:35 pm , Early leaved
+331 , Abdus Salam Mia , 2020-11-17 , Tuesday , 5:52:57 pm , 7:1:49 pm , Late Arrived
+332 ,  , 2020-11-17 , Tuesday , 10:26:21 am , 6:35:12 pm , Late Arrived
+333 , Md. Hafizur Rahman , 2020-11-17 , Tuesday , 2:56:50 pm , 6:16:20 pm , Late Arrived
+334 , Md. Motaleb Hossain , 2020-11-17 , Tuesday , 12:54:6 pm , 6:12:49 pm , Late Arrived
+335 , Gazi Golam Sarwar , 2020-11-17 , Tuesday , 11:11:8 am , 5:58:21 pm , Late Arrived
+336 , Md. Shahin Mia , 2020-11-17 , Tuesday , 5:36:36 pm , 7:19:13 pm , Late Arrived
+337 , Md. Shahadat Hossain Mabud , 2020-11-17 , Tuesday , 8:59:12 am , 5:20:15 pm , Present Office Full Time
+338 , Md. Apel Mahmud , 2020-11-17 , Tuesday , 4:32:23 pm , 4:32:23 pm , Invalid Arrival or Leave Time
+339 , Md. Nasif Hossain Imon , 2020-11-17 , Tuesday , 11:15:52 am , 4:32:0 pm , Late Arrived & Early leaved
+340 , Pretom Sikder Joy , 2020-11-17 , Tuesday , 9:34:9 am , 2:37:44 pm , Late Arrived & Early leaved
+341 , Mohammad Hasan , 2020-11-17 , Tuesday , 2:36:6 pm , 2:36:6 pm , Invalid Arrival or Leave Time
+342 , Md. Saifur Rahman Joarder , 2020-11-17 , Tuesday , 10:26:50 am , 10:26:50 am , Invalid Arrival or Leave Time
+343 , Shadia Masud , 2020-11-17 , Tuesday , 9:58:17 am , 9:58:17 am , Invalid Arrival or Leave Time
+344 , Mufrad , 2020-11-17 , Tuesday , 9:45:45 am , 9:45:45 am , Invalid Arrival or Leave Time
+345 , Sushanta Kumar Ghosh , 2020-11-17 , Tuesday , 9:35:12 am , 9:35:12 am , Invalid Arrival or Leave Time
+346 , S.A.Helaly , 2020-11-17 , Tuesday , 9:32:35 am , 9:32:35 am , Invalid Arrival or Leave Time
+347 ,  , 2020-11-17 , Tuesday , 9:23:37 am , 9:23:37 am , Invalid Arrival or Leave Time
+348 , Pronab Bindu Majumder , 2020-11-17 , Tuesday , 9:21:27 am , 9:21:27 am , Invalid Arrival or Leave Time
+349 , Tapan Kumar , 2020-11-17 , Tuesday , 8:58:58 am , 8:58:58 am , Invalid Arrival or Leave Time
+350 , Md. Motaleb Hossain , 2020-11-16 , Monday , 11:33:20 am , 10:25:48 pm , Late Arrived
+351 , Md. Hafizur Rahman , 2020-11-16 , Monday , 9:37:8 pm , 9:37:8 pm , Invalid Arrival or Leave Time
+352 , Gazi Golam Sarwar , 2020-11-16 , Monday , 8:8:26 pm , 8:8:26 pm , Invalid Arrival or Leave Time
+353 , S.A.Helaly , 2020-11-16 , Monday , 7:23:49 pm , 7:23:49 pm , Invalid Arrival or Leave Time
+354 , Md. Shahadat Hossain Mabud , 2020-11-16 , Monday , 8:46:55 am , 2:49:7 pm , Early leaved
+355 , Md. Shahin Mia , 2020-11-16 , Monday , 9:31:21 am , 5:44:17 pm , Late Arrived
+356 , Umme Suraya Nasrin , 2020-11-16 , Monday , 12:16:19 pm , 2:45:35 pm , Late Arrived & Early leaved
+357 , Sushanta Kumar Ghosh , 2020-11-16 , Monday , 9:40:26 am , 5:44:42 pm , Late Arrived
+358 ,  , 2020-11-16 , Monday , 1:13:28 pm , 1:13:28 pm , Invalid Arrival or Leave Time
+359 , Shadia Masud , 2020-11-16 , Monday , 9:41:54 am , 12:2:9 pm , Late Arrived & Early leaved
+360 , Md. Saifur Rahman Joarder , 2020-11-16 , Monday , 11:29:15 am , 11:29:15 am , Invalid Arrival or Leave Time
+361 ,  , 2020-11-16 , Monday , 11:28:48 am , 11:28:48 am , Invalid Arrival or Leave Time
+362 , Md. Nasif Hossain Imon , 2020-11-16 , Monday , 11:27:28 am , 11:27:28 am , Invalid Arrival or Leave Time
+363 , Pronab Bindu Majumder , 2020-11-16 , Monday , 8:52:11 am , 8:52:11 am , Invalid Arrival or Leave Time
+364 , Mufrad , 2020-11-16 , Monday , 9:34:30 am , 11:6:49 am , Late Arrived & Early leaved
+365 , Pretom Sikder Joy , 2020-11-16 , Monday , 10:6:4 am , 10:6:4 am , Invalid Arrival or Leave Time
+366 , Pronab Bindu Majumder , 2020-11-15 , Sunday , 9:5:57 am , 9:5:57 am , Invalid Arrival or Leave Time
+367 , Md. Motaleb Hossain , 2020-11-15 , Sunday , 10:55:35 am , 10:40:56 pm , Late Arrived
+368 , Abdus Salam Mia , 2020-11-15 , Sunday , 9:7:51 pm , 9:7:51 pm , Invalid Arrival or Leave Time
+369 , Md. Hafizur Rahman , 2020-11-15 , Sunday , 1:36:15 pm , 8:12:28 pm , Late Arrived
+370 , Md. Apel Mahmud , 2020-11-15 , Sunday , 8:1:57 pm , 8:1:57 pm , Invalid Arrival or Leave Time
+371 , Sushanta Kumar Ghosh , 2020-11-15 , Sunday , 9:31:55 am , 7:42:57 pm , Late Arrived
+372 , Md Aminur Rahman , 2020-11-15 , Sunday , 7:37:49 pm , 10:54:52 pm , Late Arrived
+373 , Mufrad , 2020-11-15 , Sunday , 9:42:59 am , 3:32:13 pm , Late Arrived & Early leaved
+374 ,  , 2020-11-15 , Sunday , 9:40:47 am , 3:13:5 pm , Late Arrived & Early leaved
+375 , Khandaker Md. Wahid Sadique , 2020-11-15 , Sunday , 3:7:4 pm , 3:7:4 pm , Invalid Arrival or Leave Time
+376 , Md. Maminul Islam , 2020-11-15 , Sunday , 10:20:51 am , 12:49:53 pm , Late Arrived & Early leaved
+377 , Mohammad Hasan , 2020-11-15 , Sunday , 12:43:12 pm , 12:43:12 pm , Invalid Arrival or Leave Time
+378 , Md. Saifur Rahman Joarder , 2020-11-15 , Sunday , 12:39:51 pm , 12:39:51 pm , Invalid Arrival or Leave Time
+379 , Md. Nasif Hossain Imon , 2020-11-15 , Sunday , 11:39:16 am , 11:39:16 am , Invalid Arrival or Leave Time
+380 ,  , 2020-11-15 , Sunday , 10:46:9 am , 10:46:9 am , Invalid Arrival or Leave Time
+381 , Bilash Kumar Ghosh , 2020-11-15 , Sunday , 10:43:0 am , 10:43:0 am , Invalid Arrival or Leave Time
+382 , S.A.Helaly , 2020-11-15 , Sunday , 9:52:47 am , 9:52:47 am , Invalid Arrival or Leave Time
+383 , Shadia Masud , 2020-11-15 , Sunday , 9:47:26 am , 9:47:26 am , Invalid Arrival or Leave Time
+384 , Tapan Kumar , 2020-11-15 , Sunday , 9:43:32 am , 9:43:32 am , Invalid Arrival or Leave Time
+385 , Md Sajjad , 2020-11-15 , Sunday , 9:40:24 am , 9:40:24 am , Invalid Arrival or Leave Time
+386 , Md. Shahin Mia , 2020-11-15 , Sunday , 9:36:50 am , 9:36:50 am , Invalid Arrival or Leave Time
+387 , Pretom Sikder Joy , 2020-11-15 , Sunday , 9:34:42 am , 9:34:42 am , Invalid Arrival or Leave Time
+388 , Md. Abdus Samad Azad , 2020-11-15 , Sunday , 9:26:19 am , 9:26:19 am , Invalid Arrival or Leave Time
+389 , Md. Razib Hasan , 2020-11-15 , Sunday , 9:25:32 am , 9:25:32 am , Invalid Arrival or Leave Time
+390 , Umme Suraya Nasrin , 2020-11-15 , Sunday , 9:19:4 am , 9:19:4 am , Invalid Arrival or Leave Time
+391 , Md. Shahadat Hossain Mabud , 2020-11-15 , Sunday , 9:10:23 am , 12:35:45 pm , Late Arrived & Early leaved
+392 , Md. Motaleb Hossain , 2020-11-14 , Saturday , 6:7:18 pm , 7:28:56 pm , Late Arrived
+393 , Abdus Salam Mia , 2020-11-14 , Saturday , 10:56:20 am , 6:39:10 pm , Late Arrived
+394 , Md Aminur Rahman , 2020-11-14 , Saturday , 3:31:40 pm , 3:31:40 pm , Invalid Arrival or Leave Time
+395 , Khandaker Md. Wahid Sadique , 2020-11-14 , Saturday , 3:15:0 pm , 3:15:0 pm , Invalid Arrival or Leave Time
+396 , Bilash Kumar Ghosh , 2020-11-14 , Saturday , 10:34:38 am , 10:34:38 am , Invalid Arrival or Leave Time
+397 , Md Aminur Rahman , 2020-11-13 , Friday , 7:24:51 pm , 7:32:43 pm , Late Arrived
+398 , Md. Motaleb Hossain , 2020-11-13 , Friday , 9:36:33 am , 6:40:54 pm , Late Arrived
+399 , Md. Shahin Mia , 2020-11-13 , Friday , 3:17:28 pm , 3:17:28 pm , Invalid Arrival or Leave Time
+400 , Khandaker Md. Wahid Sadique , 2020-11-12 , Thursday , 10:54:7 am , 6:42:52 pm , Late Arrived
+401 , Md. Motaleb Hossain , 2020-11-12 , Thursday , 11:24:33 am , 7:33:56 pm , Late Arrived
+402 , Md. Nazmul Hoque , 2020-11-12 , Thursday , 7:0:45 pm , 7:0:45 pm , Invalid Arrival or Leave Time
+403 , Abdus Salam Mia , 2020-11-12 , Thursday , 5:49:6 pm , 8:54:53 pm , Late Arrived
+404 , Md Aminur Rahman , 2020-11-12 , Thursday , 10:46:44 am , 6:42:19 pm , Late Arrived
+405 , Sushanta Kumar Ghosh , 2020-11-12 , Thursday , 12:57:58 pm , 4:56:35 pm , Late Arrived & Early leaved
+406 , Mufrad , 2020-11-12 , Thursday , 10:9:13 am , 4:33:40 pm , Late Arrived & Early leaved
+407 , Pretom Sikder Joy , 2020-11-12 , Thursday , 3:1:40 pm , 3:1:40 pm , Invalid Arrival or Leave Time
+408 , Pronab Bindu Majumder , 2020-11-12 , Thursday , 8:35:13 am , 8:35:13 am , Invalid Arrival or Leave Time
+409 , Md. Saifur Rahman Joarder , 2020-11-12 , Thursday , 12:49:3 pm , 12:49:3 pm , Invalid Arrival or Leave Time
+410 ,  , 2020-11-12 , Thursday , 11:35:53 am , 11:35:53 am , Invalid Arrival or Leave Time
+411 , Md. Maminul Islam , 2020-11-12 , Thursday , 10:32:39 am , 10:32:39 am , Invalid Arrival or Leave Time
+412 , Deen Mohammed , 2020-11-12 , Thursday , 9:50:31 am , 9:50:31 am , Invalid Arrival or Leave Time
+413 , Md. Razib Hasan , 2020-11-12 , Thursday , 8:45:6 am , 8:45:6 am , Invalid Arrival or Leave Time
+414 , Md. Nasif Hossain Imon , 2020-11-12 , Thursday , 2:3:3 pm , 2:3:3 pm , Invalid Arrival or Leave Time
+415 , Md. Hafizur Rahman , 2020-11-11 , Wednesday , 9:21:44 am , 9:2:24 pm , Late Arrived
+416 , Md. Motaleb Hossain , 2020-11-11 , Wednesday , 10:46:55 am , 8:3:54 pm , Late Arrived
+417 , Abdus Salam Mia , 2020-11-11 , Wednesday , 11:22:26 am , 8:0:8 pm , Late Arrived
+418 , Md. Razib Hasan , 2020-11-11 , Wednesday , 9:8:2 am , 7:55:27 pm , Late Arrived
+419 , Gazi Golam Sarwar , 2020-11-11 , Wednesday , 7:49:0 pm , 7:49:0 pm , Invalid Arrival or Leave Time
+420 ,  , 2020-11-11 , Wednesday , 10:39:37 am , 4:50:28 pm , Late Arrived & Early leaved
+421 , Md. Shahin Mia , 2020-11-11 , Wednesday , 11:56:30 am , 4:43:58 pm , Late Arrived & Early leaved
+422 , Pretom Sikder Joy , 2020-11-11 , Wednesday , 4:37:3 pm , 4:37:3 pm , Invalid Arrival or Leave Time
+423 , Umme Suraya Nasrin , 2020-11-11 , Wednesday , 12:34:20 pm , 4:28:58 pm , Late Arrived & Early leaved
+424 , Md. Shahadat Hossain Mabud , 2020-11-11 , Wednesday , 8:40:50 am , 2:46:3 pm , Early leaved
+425 , S.A.Helaly , 2020-11-11 , Wednesday , 4:11:50 pm , 4:11:50 pm , Invalid Arrival or Leave Time
+426 , Md. Nasif Hossain Imon , 2020-11-11 , Wednesday , 3:1:5 pm , 3:1:5 pm , Invalid Arrival or Leave Time
+427 , Md. Apel Mahmud , 2020-11-11 , Wednesday , 2:39:4 pm , 2:39:4 pm , Invalid Arrival or Leave Time
+428 , Md Aminur Rahman , 2020-11-11 , Wednesday , 2:20:4 pm , 2:20:4 pm , Invalid Arrival or Leave Time
+429 , Sushanta Kumar Ghosh , 2020-11-11 , Wednesday , 2:12:22 pm , 2:12:22 pm , Invalid Arrival or Leave Time
+430 ,  , 2020-11-11 , Wednesday , 10:12:54 am , 1:43:27 pm , Late Arrived & Early leaved
+431 , Bilash Kumar Ghosh , 2020-11-11 , Wednesday , 12:23:30 pm , 12:23:30 pm , Invalid Arrival or Leave Time
+432 , Md. Maminul Islam , 2020-11-11 , Wednesday , 10:22:24 am , 12:20:1 pm , Late Arrived & Early leaved
+433 , Mufrad , 2020-11-11 , Wednesday , 12:6:55 pm , 4:20:8 pm , Late Arrived & Early leaved
+434 , Tapan Kumar , 2020-11-11 , Wednesday , 9:2:12 am , 11:27:8 am , Late Arrived & Early leaved
+435 , Khandaker Md. Wahid Sadique , 2020-11-11 , Wednesday , 10:40:1 am , 10:40:1 am , Invalid Arrival or Leave Time
+436 , Md. Nazmul Hoque , 2020-11-11 , Wednesday , 10:13:28 am , 10:13:28 am , Invalid Arrival or Leave Time
+437 , Md Sajjad , 2020-11-11 , Wednesday , 10:12:28 am , 10:12:28 am , Invalid Arrival or Leave Time
+438 , Shadia Masud , 2020-11-11 , Wednesday , 10:1:30 am , 10:1:30 am , Invalid Arrival or Leave Time
+439 , Pronab Bindu Majumder , 2020-11-11 , Wednesday , 8:34:3 am , 8:34:3 am , Invalid Arrival or Leave Time
+440 , Md. Hafizur Rahman , 2020-11-10 , Tuesday , 8:52:40 am , 8:52:40 am , Invalid Arrival or Leave Time
+441 , Md. Shahin Mia , 2020-11-10 , Tuesday , 7:42:6 pm , 7:42:6 pm , Invalid Arrival or Leave Time
+442 , Abdus Salam Mia , 2020-11-10 , Tuesday , 5:31:20 pm , 8:18:31 pm , Late Arrived
+443 , Gazi Golam Sarwar , 2020-11-10 , Tuesday , 6:38:14 pm , 6:38:14 pm , Invalid Arrival or Leave Time
+444 ,  , 2020-11-10 , Tuesday , 11:36:1 am , 6:30:35 pm , Late Arrived
+445 , Md. Motaleb Hossain , 2020-11-10 , Tuesday , 12:20:25 pm , 6:6:34 pm , Late Arrived
+446 , Shadia Masud , 2020-11-10 , Tuesday , 9:46:22 am , 4:14:25 pm , Late Arrived & Early leaved
+447 , Md. Nasif Hossain Imon , 2020-11-10 , Tuesday , 3:54:56 pm , 3:54:56 pm , Invalid Arrival or Leave Time
+448 , Umme Suraya Nasrin , 2020-11-10 , Tuesday , 12:23:12 pm , 3:51:24 pm , Late Arrived & Early leaved
+449 , S.A.Helaly , 2020-11-10 , Tuesday , 9:28:8 am , 3:25:54 pm , Late Arrived & Early leaved
+450 , Bilash Kumar Ghosh , 2020-11-10 , Tuesday , 9:25:43 am , 3:22:34 pm , Late Arrived & Early leaved
+451 , Sushanta Kumar Ghosh , 2020-11-10 , Tuesday , 9:53:23 am , 3:17:25 pm , Late Arrived & Early leaved
+452 ,  , 2020-11-10 , Tuesday , 9:32:42 am , 3:14:6 pm , Late Arrived & Early leaved
+453 , Pretom Sikder Joy , 2020-11-10 , Tuesday , 9:34:41 am , 3:9:16 pm , Late Arrived & Early leaved
+454 , Md. Abdus Samad Azad , 2020-11-10 , Tuesday , 1:58:21 pm , 3:6:1 pm , Late Arrived & Early leaved
+455 , Md. Maminul Islam , 2020-11-10 , Tuesday , 12:16:57 pm , 2:37:0 pm , Late Arrived & Early leaved
+456 , Pronab Bindu Majumder , 2020-11-10 , Tuesday , 8:54:56 am , 1:15:34 pm , Early leaved
+457 , Md. Shahadat Hossain Mabud , 2020-11-10 , Tuesday , 9:4:47 am , 12:21:41 pm , Late Arrived & Early leaved
+458 , Md. Saifur Rahman Joarder , 2020-11-10 , Tuesday , 12:0:34 pm , 12:0:34 pm , Invalid Arrival or Leave Time
+459 , Nidalia Islam , 2020-11-10 , Tuesday , 11:19:44 am , 11:19:44 am , Invalid Arrival or Leave Time
+460 , Mufrad , 2020-11-10 , Tuesday , 11:15:9 am , 11:15:9 am , Invalid Arrival or Leave Time
+461 , Md. Razib Hasan , 2020-11-10 , Tuesday , 9:34:20 am , 9:34:20 am , Invalid Arrival or Leave Time
+462 , Md. Nazmul Hoque , 2020-11-10 , Tuesday , 9:33:23 am , 9:33:23 am , Invalid Arrival or Leave Time
+463 , Tapan Kumar , 2020-11-10 , Tuesday , 9:31:15 am , 9:31:15 am , Invalid Arrival or Leave Time
+464 , Md. Shahin Mia , 2020-11-09 , Monday , 10:39:14 pm , 10:39:14 pm , Invalid Arrival or Leave Time
+465 , Md. Motaleb Hossain , 2020-11-09 , Monday , 3:47:49 pm , 8:26:5 pm , Late Arrived
+466 , Md. Nazmul Hoque , 2020-11-09 , Monday , 9:22:14 am , 5:9:22 pm , Late Arrived
+467 , S.A.Helaly , 2020-11-09 , Monday , 9:33:59 am , 5:8:7 pm , Late Arrived
+468 , Gazi Golam Sarwar , 2020-11-09 , Monday , 4:35:54 pm , 4:35:54 pm , Invalid Arrival or Leave Time
+469 , Abdus Salam Mia , 2020-11-09 , Monday , 4:34:11 pm , 4:34:11 pm , Invalid Arrival or Leave Time
+470 , Umme Suraya Nasrin , 2020-11-09 , Monday , 4:22:40 pm , 4:22:40 pm , Invalid Arrival or Leave Time
+471 , Bilash Kumar Ghosh , 2020-11-09 , Monday , 9:29:21 am , 3:53:38 pm , Late Arrived & Early leaved
+472 , Md. Maminul Islam , 2020-11-09 , Monday , 9:50:5 am , 3:47:46 pm , Late Arrived & Early leaved
+473 , Deen Mohammed , 2020-11-09 , Monday , 1:29:12 pm , 3:20:24 pm , Late Arrived & Early leaved
+474 , Md. Shahadat Hossain Mabud , 2020-11-09 , Monday , 9:5:37 am , 9:5:37 am , Invalid Arrival or Leave Time
+475 , Md. Nasif Hossain Imon , 2020-11-09 , Monday , 3:13:5 pm , 3:13:5 pm , Invalid Arrival or Leave Time
+476 , Md. Al-Amin Hossion , 2020-11-09 , Monday , 11:7:17 am , 3:20:2 pm , Late Arrived & Early leaved
+477 , Sushanta Kumar Ghosh , 2020-11-09 , Monday , 9:59:54 am , 1:21:15 pm , Late Arrived & Early leaved
+478 , Shadia Masud , 2020-11-09 , Monday , 10:8:32 am , 12:56:22 pm , Late Arrived & Early leaved
+479 , Md. Hafizur Rahman , 2020-11-09 , Monday , 12:9:32 pm , 12:9:32 pm , Invalid Arrival or Leave Time
+480 , Md. Saifur Rahman Joarder , 2020-11-09 , Monday , 11:38:30 am , 11:38:30 am , Invalid Arrival or Leave Time
+481 , Md Aminur Rahman , 2020-11-09 , Monday , 11:28:21 am , 11:28:21 am , Invalid Arrival or Leave Time
+482 , Pretom Sikder Joy , 2020-11-09 , Monday , 9:10:4 am , 11:9:14 am , Late Arrived & Early leaved
+483 , Abul Khair , 2020-11-09 , Monday , 9:42:54 am , 9:42:54 am , Invalid Arrival or Leave Time
+484 , Pronab Bindu Majumder , 2020-11-09 , Monday , 9:41:32 am , 9:41:32 am , Invalid Arrival or Leave Time
+485 , Tapan Kumar , 2020-11-09 , Monday , 9:28:38 am , 9:28:38 am , Invalid Arrival or Leave Time
+486 , Md Sajjad , 2020-11-09 , Monday , 9:25:33 am , 9:25:33 am , Invalid Arrival or Leave Time
+487 , Md. Hafizur Rahman , 2020-11-08 , Sunday , 11:40:41 am , 10:10:48 pm , Late Arrived
+488 , Md. Shahin Mia , 2020-11-08 , Sunday , 9:46:29 pm , 9:46:29 pm , Invalid Arrival or Leave Time
+489 , Abdus Salam Mia , 2020-11-08 , Sunday , 9:38:59 am , 8:27:11 pm , Late Arrived
+490 , Khandaker Md. Wahid Sadique , 2020-11-08 , Sunday , 8:24:57 pm , 8:24:57 pm , Invalid Arrival or Leave Time
+491 , Md. Motaleb Hossain , 2020-11-08 , Sunday , 11:31:37 am , 7:37:15 pm , Late Arrived
+492 , Md Aminur Rahman , 2020-11-08 , Sunday , 5:50:5 pm , 6:30:27 pm , Late Arrived
+493 , Md. Saifur Rahman Joarder , 2020-11-08 , Sunday , 11:28:53 am , 4:35:8 pm , Late Arrived & Early leaved
+494 , Md. Nasif Hossain Imon , 2020-11-08 , Sunday , 2:39:9 pm , 2:39:9 pm , Invalid Arrival or Leave Time
+495 , Sushanta Kumar Ghosh , 2020-11-08 , Sunday , 9:52:38 am , 1:25:43 pm , Late Arrived & Early leaved
+496 , Shadia Masud , 2020-11-08 , Sunday , 9:50:29 am , 1:2:6 pm , Late Arrived & Early leaved
+497 , Pretom Sikder Joy , 2020-11-08 , Sunday , 12:46:49 pm , 12:46:49 pm , Invalid Arrival or Leave Time
+498 , Mufrad , 2020-11-08 , Sunday , 11:47:23 am , 11:47:23 am , Invalid Arrival or Leave Time
+499 , Pronab Bindu Majumder , 2020-11-08 , Sunday , 9:0:1 am , 9:0:1 am , Invalid Arrival or Leave Time
+500 , Mohammad Hasan , 2020-11-08 , Sunday , 10:37:45 am , 10:37:45 am , Invalid Arrival or Leave Time
+501 , Bilash Kumar Ghosh , 2020-11-08 , Sunday , 9:8:44 am , 10:29:3 am , Late Arrived & Early leaved
+502 , Md. Abdus Samad Azad , 2020-11-08 , Sunday , 9:55:17 am , 10:19:41 am , Late Arrived & Early leaved
+503 , Gazi Golam Sarwar , 2020-11-08 , Sunday , 10:6:14 am , 10:6:46 am , Late Arrived & Early leaved
+504 , Md. Nazmul Hoque , 2020-11-08 , Sunday , 9:14:46 am , 9:44:44 am , Late Arrived & Early leaved
+505 , Tapan Kumar , 2020-11-08 , Sunday , 9:42:0 am , 10:57:14 am , Late Arrived & Early leaved
+506 , Md. Shahadat Hossain Mabud , 2020-11-08 , Sunday , 9:7:17 am , 9:7:17 am , Invalid Arrival or Leave Time
+507 , Md. Motaleb Hossain , 2020-11-07 , Saturday , 10:52:21 am , 9:51:14 pm , Late Arrived
+508 , Md. Hafizur Rahman , 2020-11-07 , Saturday , 2:52:14 pm , 7:28:39 pm , Late Arrived
+509 , Abdus Salam Mia , 2020-11-07 , Saturday , 11:21:23 am , 6:52:56 pm , Late Arrived
+510 , Khandaker Md. Wahid Sadique , 2020-11-07 , Saturday , 6:30:50 pm , 6:30:50 pm , Invalid Arrival or Leave Time
+511 , Md. Shahin Mia , 2020-11-07 , Saturday , 5:27:10 pm , 5:27:10 pm , Invalid Arrival or Leave Time
+512 , Md. Shahin Mia , 2020-11-06 , Friday , 2:25:18 pm , 6:43:12 pm , Late Arrived
+513 , Abdus Salam Mia , 2020-11-06 , Friday , 10:18:47 am , 10:13:17 pm , Late Arrived
+514 , Md. Motaleb Hossain , 2020-11-06 , Friday , 9:48:15 am , 6:35:7 pm , Late Arrived
+515 , Md. Hafizur Rahman , 2020-11-06 , Friday , 9:22:14 pm , 9:22:14 pm , Invalid Arrival or Leave Time
+516 , Md. Shahadat Hossain Mabud , 2020-11-05 , Thursday , 8:59:11 am , 3:18:39 pm , Early leaved
+517 , Abdus Salam Mia , 2020-11-05 , Thursday , 11:41:24 am , 6:11:5 pm , Late Arrived
+518 , Md Aminur Rahman , 2020-11-05 , Thursday , 1:43:55 pm , 5:48:32 pm , Late Arrived
+519 , Md Sajjad , 2020-11-05 , Thursday , 11:40:33 am , 5:19:58 pm , Late Arrived
+520 , Md. Nazmul Hoque , 2020-11-05 , Thursday , 9:23:4 am , 5:11:12 pm , Late Arrived
+521 , Md. Motaleb Hossain , 2020-11-05 , Thursday , 10:11:43 am , 9:49:8 pm , Late Arrived
+522 , Md. Abdus Samad Azad , 2020-11-05 , Thursday , 3:2:35 pm , 3:2:35 pm , Invalid Arrival or Leave Time
+523 , Md. Hafizur Rahman , 2020-11-05 , Thursday , 1:47:33 pm , 1:47:33 pm , Invalid Arrival or Leave Time
+524 , Pretom Sikder Joy , 2020-11-05 , Thursday , 9:29:19 am , 1:16:19 pm , Late Arrived & Early leaved
+525 , Md. Saifur Rahman Joarder , 2020-11-05 , Thursday , 11:41:2 am , 11:41:57 am , Late Arrived & Early leaved
+526 , Md. Shahin Mia , 2020-11-05 , Thursday , 12:40:30 pm , 12:40:30 pm , Invalid Arrival or Leave Time
+527 , Mufrad , 2020-11-05 , Thursday , 11:58:22 am , 11:58:22 am , Invalid Arrival or Leave Time
+528 , Khandaker Md. Wahid Sadique , 2020-11-05 , Thursday , 11:44:54 am , 11:44:54 am , Invalid Arrival or Leave Time
+529 , Md. Nasif Hossain Imon , 2020-11-05 , Thursday , 10:52:29 am , 11:25:48 am , Late Arrived & Early leaved
+530 , Md. Maminul Islam , 2020-11-05 , Thursday , 10:50:44 am , 10:50:44 am , Invalid Arrival or Leave Time
+531 , Sushanta Kumar Ghosh , 2020-11-05 , Thursday , 10:1:10 am , 10:1:10 am , Invalid Arrival or Leave Time
+532 , Md. Razib Hasan , 2020-11-05 , Thursday , 9:53:42 am , 9:53:42 am , Invalid Arrival or Leave Time
+533 , S.A.Helaly , 2020-11-05 , Thursday , 9:33:48 am , 9:33:48 am , Invalid Arrival or Leave Time
+534 , Md. Motaleb Hossain , 2020-11-04 , Wednesday , 10:45:15 am , 9:25:0 pm , Late Arrived
+535 , Abdus Salam Mia , 2020-11-04 , Wednesday , 7:52:5 pm , 8:49:19 pm , Late Arrived
+536 , Md. Shahin Mia , 2020-11-04 , Wednesday , 8:15:9 pm , 8:47:6 pm , Late Arrived
+537 , Md. Hafizur Rahman , 2020-11-04 , Wednesday , 12:20:19 pm , 8:35:46 pm , Late Arrived
+538 , Md. Shahadat Hossain Mabud , 2020-11-04 , Wednesday , 8:47:33 am , 8:47:33 am , Invalid Arrival or Leave Time
+539 , Khandaker Md. Wahid Sadique , 2020-11-04 , Wednesday , 4:57:25 pm , 4:57:25 pm , Invalid Arrival or Leave Time
+540 , Mufrad , 2020-11-04 , Wednesday , 11:39:56 am , 4:9:32 pm , Late Arrived & Early leaved
+541 , Md. Saifur Rahman Joarder , 2020-11-04 , Wednesday , 3:27:52 pm , 3:27:52 pm , Invalid Arrival or Leave Time
+542 , Md. Nazmul Hoque , 2020-11-04 , Wednesday , 9:32:22 am , 3:21:45 pm , Late Arrived & Early leaved
+543 , Nidalia Islam , 2020-11-04 , Wednesday , 2:29:59 pm , 2:29:59 pm , Invalid Arrival or Leave Time
+544 , Md Aminur Rahman , 2020-11-04 , Wednesday , 2:10:21 pm , 2:10:21 pm , Invalid Arrival or Leave Time
+545 , Bilash Kumar Ghosh , 2020-11-04 , Wednesday , 9:20:39 am , 2:4:13 pm , Late Arrived & Early leaved
+546 , Sushanta Kumar Ghosh , 2020-11-04 , Wednesday , 9:57:22 am , 1:32:58 pm , Late Arrived & Early leaved
+547 , Md. Maminul Islam , 2020-11-04 , Wednesday , 11:33:49 am , 12:18:12 pm , Late Arrived & Early leaved
+548 ,  , 2020-11-04 , Wednesday , 12:16:22 pm , 12:16:22 pm , Invalid Arrival or Leave Time
+549 , Gazi Golam Sarwar , 2020-11-04 , Wednesday , 12:8:42 pm , 12:8:42 pm , Invalid Arrival or Leave Time
+550 , Md. Abdus Samad Azad , 2020-11-04 , Wednesday , 11:25:23 am , 11:25:23 am , Invalid Arrival or Leave Time
+551 , Md. Razib Hasan , 2020-11-04 , Wednesday , 10:41:51 am , 10:41:51 am , Invalid Arrival or Leave Time
+552 , Md Sajjad , 2020-11-04 , Wednesday , 10:37:52 am , 10:37:52 am , Invalid Arrival or Leave Time
+553 , Pretom Sikder Joy , 2020-11-04 , Wednesday , 9:22:2 am , 9:22:2 am , Invalid Arrival or Leave Time
+554 , Md. Nasif Hossain Imon , 2020-11-04 , Wednesday , 11:11:53 am , 11:11:53 am , Invalid Arrival or Leave Time
+555 , Pretom Sikder Joy , 2020-11-03 , Tuesday , 9:30:57 am , 2:0:1 pm , Late Arrived & Early leaved
+556 , Md. Motaleb Hossain , 2020-11-03 , Tuesday , 2:34:59 pm , 9:21:34 pm , Late Arrived
+557 , Md. Hafizur Rahman , 2020-11-03 , Tuesday , 2:25:24 pm , 8:39:14 pm , Late Arrived
+558 , Abdus Salam Mia , 2020-11-03 , Tuesday , 12:31:25 pm , 6:20:30 pm , Late Arrived
+559 , Khandaker Md. Wahid Sadique , 2020-11-03 , Tuesday , 5:21:59 pm , 5:21:59 pm , Invalid Arrival or Leave Time
+560 , Bilash Kumar Ghosh , 2020-11-03 , Tuesday , 4:14:54 pm , 4:14:54 pm , Invalid Arrival or Leave Time
+561 , Shadia Masud , 2020-11-03 , Tuesday , 9:53:55 am , 4:13:30 pm , Late Arrived & Early leaved
+562 , Nidalia Islam , 2020-11-03 , Tuesday , 4:11:26 pm , 4:11:26 pm , Invalid Arrival or Leave Time
+563 ,  , 2020-11-03 , Tuesday , 3:20:47 pm , 3:20:47 pm , Invalid Arrival or Leave Time
+564 , Umme Suraya Nasrin , 2020-11-03 , Tuesday , 12:50:48 pm , 2:55:41 pm , Late Arrived & Early leaved
+565 , Md. Maminul Islam , 2020-11-03 , Tuesday , 10:14:45 am , 1:47:38 pm , Late Arrived & Early leaved
+566 , Sushanta Kumar Ghosh , 2020-11-03 , Tuesday , 9:37:57 am , 1:45:31 pm , Late Arrived & Early leaved
+567 , Mufrad , 2020-11-03 , Tuesday , 12:7:48 pm , 12:7:48 pm , Invalid Arrival or Leave Time
+568 , Tapan Kumar , 2020-11-03 , Tuesday , 12:2:38 pm , 12:2:38 pm , Invalid Arrival or Leave Time
+569 , Md. Shahin Mia , 2020-11-03 , Tuesday , 11:5:30 am , 11:5:30 am , Invalid Arrival or Leave Time
+570 , Md Sajjad , 2020-11-03 , Tuesday , 10:52:36 am , 10:52:36 am , Invalid Arrival or Leave Time
+571 , Md Aminur Rahman , 2020-11-03 , Tuesday , 10:11:10 am , 10:11:10 am , Invalid Arrival or Leave Time
+572 , Md. Shahadat Hossain Mabud , 2020-11-03 , Tuesday , 9:5:5 am , 10:10:31 am , Late Arrived & Early leaved
+573 , Gazi Golam Sarwar , 2020-11-03 , Tuesday , 9:57:57 am , 9:57:57 am , Invalid Arrival or Leave Time
+574 , Md. Saifur Rahman Joarder , 2020-11-03 , Tuesday , 9:55:47 am , 9:55:47 am , Invalid Arrival or Leave Time
+575 , Md. Razib Hasan , 2020-11-03 , Tuesday , 9:43:37 am , 9:43:37 am , Invalid Arrival or Leave Time
+576 , Pronab Bindu Majumder , 2020-11-03 , Tuesday , 9:32:26 am , 9:32:26 am , Invalid Arrival or Leave Time
+577 , Md. Nazmul Hoque , 2020-11-03 , Tuesday , 9:9:58 am , 9:9:58 am , Invalid Arrival or Leave Time
+578 , Md Aminur Rahman , 2020-11-02 , Monday , 10:14:22 am , 6:49:51 pm , Late Arrived
+579 , Md. Hafizur Rahman , 2020-11-02 , Monday , 2:4:2 pm , 8:45:33 pm , Late Arrived
+580 , Khandaker Md. Wahid Sadique , 2020-11-02 , Monday , 2:7:43 pm , 6:53:9 pm , Late Arrived
+581 , Md. Motaleb Hossain , 2020-11-02 , Monday , 9:49:6 am , 9:2:30 pm , Late Arrived
+582 , Abdus Salam Mia , 2020-11-02 , Monday , 2:10:33 pm , 6:19:45 pm , Late Arrived
+583 , Nidalia Islam , 2020-11-02 , Monday , 4:43:30 pm , 4:43:30 pm , Invalid Arrival or Leave Time
+584 , Md. Nasif Hossain Imon , 2020-11-02 , Monday , 11:54:18 am , 4:37:15 pm , Late Arrived & Early leaved
+585 , Md. Abdus Samad Azad , 2020-11-02 , Monday , 2:57:6 pm , 4:31:23 pm , Late Arrived & Early leaved
+586 , Pretom Sikder Joy , 2020-11-02 , Monday , 10:8:18 am , 4:28:22 pm , Late Arrived & Early leaved
+587 , Umme Suraya Nasrin , 2020-11-02 , Monday , 12:5:6 pm , 4:24:35 pm , Late Arrived & Early leaved
+588 , Md. Saifur Rahman Joarder , 2020-11-02 , Monday , 11:33:6 am , 2:45:35 pm , Late Arrived & Early leaved
+589 , Gazi Golam Sarwar , 2020-11-02 , Monday , 2:39:26 pm , 2:39:26 pm , Invalid Arrival or Leave Time
+590 , Mohammad Hasan , 2020-11-02 , Monday , 10:12:13 am , 1:33:13 pm , Late Arrived & Early leaved
+591 , Sushanta Kumar Ghosh , 2020-11-02 , Monday , 9:38:4 am , 1:24:44 pm , Late Arrived & Early leaved
+592 , Mufrad , 2020-11-02 , Monday , 10:26:14 am , 12:52:26 pm , Late Arrived & Early leaved
+593 , Md Sajjad , 2020-11-02 , Monday , 11:7:5 am , 11:7:5 am , Invalid Arrival or Leave Time
+594 , Md. Maminul Islam , 2020-11-02 , Monday , 10:40:35 am , 10:40:35 am , Invalid Arrival or Leave Time
+595 , Md. Shahin Mia , 2020-11-02 , Monday , 10:39:5 am , 2:16:20 pm , Late Arrived & Early leaved
+596 , Md. Shahadat Hossain Mabud , 2020-11-02 , Monday , 9:2:20 am , 9:2:20 am , Invalid Arrival or Leave Time
+597 , Shadia Masud , 2020-11-02 , Monday , 10:7:1 am , 10:7:1 am , Invalid Arrival or Leave Time
+598 , S.A.Helaly , 2020-11-02 , Monday , 9:21:49 am , 9:21:49 am , Invalid Arrival or Leave Time
+599 , Md. Nazmul Hoque , 2020-11-02 , Monday , 9:14:23 am , 9:14:23 am , Invalid Arrival or Leave Time
+600 , Md. Shahin Mia , 2020-11-01 , Sunday , 8:29:25 am , 7:36:42 pm , Present Office Full Time
+601 , Md. Motaleb Hossain , 2020-11-01 , Sunday , 6:34:30 pm , 6:34:30 pm , Invalid Arrival or Leave Time
+602 , Sushanta Kumar Ghosh , 2020-11-01 , Sunday , 9:44:10 am , 5:48:34 pm , Late Arrived
+603 , Md. Nazmul Hoque , 2020-11-01 , Sunday , 9:8:47 am , 4:48:7 pm , Late Arrived & Early leaved
+604 , Md Sajjad , 2020-11-01 , Sunday , 9:8:38 am , 4:15:30 pm , Late Arrived & Early leaved
+605 , Khandaker Md. Wahid Sadique , 2020-11-01 , Sunday , 10:19:40 am , 2:55:27 pm , Late Arrived & Early leaved
+606 , Abdus Salam Mia , 2020-11-01 , Sunday , 7:14:40 am , 2:50:30 pm , Early leaved
+607 , Md. Hafizur Rahman , 2020-11-01 , Sunday , 10:49:56 am , 2:40:18 pm , Late Arrived & Early leaved
+608 , Md. Abdus Samad Azad , 2020-11-01 , Sunday , 1:30:2 pm , 1:30:2 pm , Invalid Arrival or Leave Time
+609 , Md. Maminul Islam , 2020-11-01 , Sunday , 10:17:31 am , 12:57:52 pm , Late Arrived & Early leaved
+610 , Md. Saifur Rahman Joarder , 2020-11-01 , Sunday , 11:57:18 am , 11:57:18 am , Invalid Arrival or Leave Time
+611 ,  , 2020-11-01 , Sunday , 10:36:36 am , 10:36:36 am , Invalid Arrival or Leave Time
+612 , Md Aminur Rahman , 2020-11-01 , Sunday , 10:29:10 am , 10:29:10 am , Invalid Arrival or Leave Time
+613 , Mufrad , 2020-11-01 , Sunday , 9:42:50 am , 10:39:8 am , Late Arrived & Early leaved
+614 , Pronab Bindu Majumder , 2020-11-01 , Sunday , 8:58:8 am , 8:58:8 am , Invalid Arrival or Leave Time
+615 , Md. Al-Amin Hossion , 2020-11-01 , Sunday , 8:49:4 am , 8:49:4 am , Invalid Arrival or Leave Time
+616 , Md. Shahadat Hossain Mabud , 2020-11-01 , Sunday , 8:49:0 am , 8:49:0 am , Invalid Arrival or Leave Time
+617 , Md. Nasif Hossain Imon , 2020-11-01 , Sunday , 8:48:54 am , 8:48:54 am , Invalid Arrival or Leave Time

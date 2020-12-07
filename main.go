@@ -28,7 +28,7 @@ func containsInAttendance(sal []Attendance, u User) bool {
 	return false
 }
 
-func indexOfAttandant(ul []User, a Attendance) int {
+func findTheUser(ul []User, a Attendance) int {
 	for i, u := range ul {
 		if u.EmpID == a.EmpID {
 			return i
@@ -84,6 +84,12 @@ func giveStatus(at time.Time, lt time.Time) string {
 }
 
 func writeToAttendanceAbsent(f *os.File, e Attendance) {
+	if e.Name == "" {
+		position := findTheUser(currentUsersEmp, e)
+		if position != -1 {
+			e.Name = currentUsersEmp[position].Name
+		}
+	}
 	_, errWriteA := fmt.Fprintln(f, index, ",", e.Name, ",", dateFix(e.Date), ",", e.Day, ",", timeFix(e.ArrivalTime), ",", timeFix(e.LeaveTime), ",", giveStatus(e.ArrivalTime, e.LeaveTime))
 	if errWriteA != nil {
 		log.Fatalln("Save to attendance_with_absent.csv Error:", errWriteA)
@@ -154,6 +160,7 @@ var (
 	arriveEmpList               = []Employee{}
 	attendanceList              = []Attendance{}
 	singleDateAttendantList     = []Attendance{}
+	currentUsersEmp             = []User{}
 	index                   int = 1
 )
 
@@ -161,7 +168,6 @@ func main() {
 	//Missing 104 and 405 in currentUsersEmp
 	officerIDS := []int{101, 102, 103, 104, 105, 106, 107, 108, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 301, 302, 303, 304, 305, 306, 307, 401, 402, 403, 404, 405, 406}
 	cleanerEmpIDS := []int{407, 408}
-	currentUsersEmp := []User{}
 
 	allOfficersRecors := []Employee{}
 	records := readCsvFile("./data.csv")
@@ -290,26 +296,6 @@ func main() {
 
 		}
 	}
-
-	// take, _ := time.Parse("2006-01-02", "2000-12-05")
-	// for i, e := range attendanceList {
-	// 	if take != e.Date {
-	// 		take = e.Date
-	// 		if i == 0 {
-	// 			writeToAttendanceAbsent(csvFileA, e)
-	// 		} else {
-
-	// 			_, errWrite := fmt.Fprintln(csvFileA, "Absent now")
-	// 			if errWrite != nil {
-	// 				log.Fatalln("Save to attendance_with_absent.csv Error:", errWrite)
-	// 			}
-	// 			writeToAttendanceAbsent(csvFileA, e)
-	// 		}
-	// 	} else {
-	// 		writeToAttendanceAbsent(csvFileA, e)
-	// 	}
-
-	// }
 
 	take := attendanceList[0].Date
 	atlIndex := 0
