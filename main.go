@@ -28,9 +28,18 @@ func containsInAttendance(sal []Attendance, u User) bool {
 	return false
 }
 
-func findTheUser(ul []User, a Attendance) int {
+func findTheUserWithA(ul []User, a Attendance) int {
 	for i, u := range ul {
 		if u.EmpID == a.EmpID {
+			return i
+		}
+	}
+	return -1
+}
+
+func findTheUserWithU(ul []User, u User) int {
+	for i, u := range ul {
+		if u.EmpID == u.EmpID {
 			return i
 		}
 	}
@@ -84,11 +93,9 @@ func giveStatus(at time.Time, lt time.Time) string {
 }
 
 func writeToAttendanceAbsent(f *os.File, e Attendance) {
-	if e.Name == "" {
-		position := findTheUser(currentUsersEmp, e)
-		if position != -1 {
-			e.Name = currentUsersEmp[position].Name
-		}
+	position := findTheUserWithA(currentUsersEmp, e)
+	if position != -1 {
+		e.Name = currentUsersEmp[position].Name
 	}
 	_, errWriteA := fmt.Fprintln(f, index, ",", e.Name, ",", dateFix(e.Date), ",", e.Day, ",", timeFix(e.ArrivalTime), ",", timeFix(e.LeaveTime), ",", giveStatus(e.ArrivalTime, e.LeaveTime))
 	if errWriteA != nil {
