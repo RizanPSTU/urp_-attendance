@@ -19,6 +19,15 @@ func contains(s []int, e int) bool {
 	return false
 }
 
+func containsInAttendance(sal []Attendance, u User) bool {
+	for _, sa := range sal {
+		if u.EmpID == sa.EmpID {
+			return true
+		}
+	}
+	return false
+}
+
 func indexOfAttandant(ul []User, a Attendance) int {
 	for i, u := range ul {
 		if u.EmpID == a.EmpID {
@@ -74,6 +83,22 @@ func giveStatus(at time.Time, lt time.Time) string {
 	return "Present Office Full Time"
 }
 
+func writeToAttendanceAbsent(f *os.File, e Attendance) {
+	_, errWriteA := fmt.Fprintln(f, index, ",", e.Name, ",", dateFix(e.Date), ",", e.Day, ",", timeFix(e.ArrivalTime), ",", timeFix(e.LeaveTime), ",", giveStatus(e.ArrivalTime, e.LeaveTime))
+	if errWriteA != nil {
+		log.Fatalln("Save to attendance_with_absent.csv Error:", errWriteA)
+	}
+	index++
+}
+
+func writeAbsent(f *os.File, u User, e Attendance) {
+	_, errWriteA := fmt.Fprintln(f, index, ",", u.Name, ",", dateFix(e.Date), ",", e.Day, ",", "Null", ",", "Null", ",", "Absent")
+	if errWriteA != nil {
+		log.Fatalln("Save to attendance_with_absent.csv Error:", errWriteA)
+	}
+	index++
+}
+
 func readCsvFile(filePath string) [][]string {
 	f, err := os.Open(filePath)
 	if err != nil {
@@ -125,9 +150,11 @@ type Attendance struct {
 
 var (
 	//main
-	leaveEmpList   = []Employee{}
-	arriveEmpList  = []Employee{}
-	attendanceList = []Attendance{}
+	leaveEmpList                = []Employee{}
+	arriveEmpList               = []Employee{}
+	attendanceList              = []Attendance{}
+	singleDateAttendantList     = []Attendance{}
+	index                   int = 1
 )
 
 func main() {
@@ -264,28 +291,63 @@ func main() {
 		}
 	}
 
-	take, _ := time.Parse("2006-01-02", "2000-12-05")
-	index := 1
-	for i, e := range attendanceList {
-		if take != e.Date {
-			take = e.Date
-			if i == 0 {
-				_, errWriteA := fmt.Fprintln(csvFileA, index, ",", e.Name, ",", dateFix(e.Date), ",", e.Day, ",", timeFix(e.ArrivalTime), ",", timeFix(e.LeaveTime), ",", giveStatus(e.ArrivalTime, e.LeaveTime))
-				if errWriteA != nil {
-					log.Fatalln("Save to attendance_with_absent.csv Error:", errWriteA)
-				}
-				index++
-			} else {
-				//Write absent emp here
-			}
+	// take, _ := time.Parse("2006-01-02", "2000-12-05")
+	// for i, e := range attendanceList {
+	// 	if take != e.Date {
+	// 		take = e.Date
+	// 		if i == 0 {
+	// 			writeToAttendanceAbsent(csvFileA, e)
+	// 		} else {
+
+	// 			_, errWrite := fmt.Fprintln(csvFileA, "Absent now")
+	// 			if errWrite != nil {
+	// 				log.Fatalln("Save to attendance_with_absent.csv Error:", errWrite)
+	// 			}
+	// 			writeToAttendanceAbsent(csvFileA, e)
+	// 		}
+	// 	} else {
+	// 		writeToAttendanceAbsent(csvFileA, e)
+	// 	}
+
+	// }
+
+	take := attendanceList[0].Date
+	atlIndex := 0
+	atEnd := false
+	for !atEnd {
+		ate := attendanceList[atlIndex]
+		if take == ate.Date {
+			singleDateAttendantList = append(singleDateAttendantList, ate)
+			atlIndex++
 		} else {
-			_, errWriteA := fmt.Fprintln(csvFileA, index, ",", e.Name, ",", dateFix(e.Date), ",", e.Day, ",", timeFix(e.ArrivalTime), ",", timeFix(e.LeaveTime), ",", giveStatus(e.ArrivalTime, e.LeaveTime))
-			if errWriteA != nil {
-				log.Fatalln("Save to attendance_with_absent.csv Error:", errWriteA)
+			take = ate.Date
+			for _, dat := range singleDateAttendantList {
+				writeToAttendanceAbsent(csvFileA, dat)
 			}
-			index++
+
+			for _, u := range currentUsersEmp {
+				isPresent := containsInAttendance(singleDateAttendantList, u)
+				if isPresent == false {
+					writeAbsent(csvFileA, u, singleDateAttendantList[0])
+				}
+			}
+			singleDateAttendantList = []Attendance{}
 		}
 
+		if atlIndex == len(arriveEmpList) {
+			atEnd = true
+			for _, dat := range singleDateAttendantList {
+				writeToAttendanceAbsent(csvFileA, dat)
+			}
+
+			for _, u := range currentUsersEmp {
+				isPresent := containsInAttendance(singleDateAttendantList, u)
+				if isPresent == false {
+					writeAbsent(csvFileA, u, singleDateAttendantList[0])
+				}
+			}
+			singleDateAttendantList = []Attendance{}
+		}
 	}
 
 }
