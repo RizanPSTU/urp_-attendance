@@ -97,7 +97,7 @@ func writeToAttendanceAbsent(f *os.File, e Attendance) {
 	if position != -1 {
 		e.Name = currentUsersEmp[position].Name
 	}
-	_, errWriteA := fmt.Fprintln(f, index, ",", e.Name, ",", dateFix(e.Date), ",", e.Day, ",", timeFix(e.ArrivalTime), ",", timeFix(e.LeaveTime), ",", giveStatus(e.ArrivalTime, e.LeaveTime))
+	_, errWriteA := fmt.Fprintln(f, index, ",", e.Name, ",", e.EmpID, ",", dateFix(e.Date), ",", e.Day, ",", timeFix(e.ArrivalTime), ",", timeFix(e.LeaveTime), ",", giveStatus(e.ArrivalTime, e.LeaveTime))
 	if errWriteA != nil {
 		log.Fatalln("Save to attendance_with_absent.csv Error:", errWriteA)
 	}
@@ -105,7 +105,7 @@ func writeToAttendanceAbsent(f *os.File, e Attendance) {
 }
 
 func writeAbsent(f *os.File, u User, e Attendance) {
-	_, errWriteA := fmt.Fprintln(f, index, ",", u.Name, ",", dateFix(e.Date), ",", e.Day, ",", "Null", ",", "Null", ",", "Absent")
+	_, errWriteA := fmt.Fprintln(f, index, ",", u.Name, ",", u.EmpID, ",", dateFix(e.Date), ",", e.Day, ",", "Null", ",", "Null", ",", "Absent")
 	if errWriteA != nil {
 		log.Fatalln("Save to attendance_with_absent.csv Error:", errWriteA)
 	}
