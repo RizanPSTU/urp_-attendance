@@ -1,96 +1,288 @@
-1 , Md. Apel Mahmud , 225 , 2021-01-13 , Wednesday , 12:33:14 pm , 1:57:17 pm , Late Arrived & Early leaved
-2 , Md. Nazmul Hoque , 303 , 2021-01-13 , Wednesday , 9:14:49 am , 1:44:23 pm , Late Arrived & Early leaved
-3 , Sushanta Kumar Das , 108 , 2021-01-13 , Wednesday , 10:9:46 am , 1:23:6 pm , Late Arrived & Early leaved
-4 , Tapan Kumar , 203 , 2021-01-13 , Wednesday , 9:20:37 am , 12:28:48 pm , Late Arrived & Early leaved
-5 , Md Taimur Tanvir , 213 , 2021-01-13 , Wednesday , 12:26:5 pm , 12:26:5 pm , Invalid Arrival or Leave Time
-6 , Abdur Rahman Khan , 222 , 2021-01-13 , Wednesday , 10:9:6 am , 12:16:31 pm , Late Arrived & Early leaved
-7 , Shadia Masud , 204 , 2021-01-13 , Wednesday , 12:7:17 pm , 12:7:17 pm , Invalid Arrival or Leave Time
-8 , Shovon Saha , 228 , 2021-01-13 , Wednesday , 11:38:27 am , 11:57:39 am , Late Arrived & Early leaved
-9 , Umme Suraya Nasrin , 205 , 2021-01-13 , Wednesday , 11:55:21 am , 11:55:21 am , Invalid Arrival or Leave Time
-10 , Khandaker Md. Wahid Sadique , 103 , 2021-01-13 , Wednesday , 10:33:58 am , 11:51:59 am , Late Arrived & Early leaved
-11 , Md. Saifur Rahman Joarder , 106 , 2021-01-13 , Wednesday , 11:34:29 am , 11:34:29 am , Invalid Arrival or Leave Time
-12 , Deen Mohammed , 223 , 2021-01-13 , Wednesday , 10:47:20 am , 11:28:6 am , Late Arrived & Early leaved
-13 , Md. Fahim Faisal , 209 , 2021-01-13 , Wednesday , 9:31:6 am , 11:18:21 am , Late Arrived & Early leaved
-14 , Rakibuzzaman Summon , 305 , 2021-01-13 , Wednesday , 11:9:49 am , 11:9:49 am , Invalid Arrival or Leave Time
-15 , Bilash Kumar Ghosh , 201 , 2021-01-13 , Wednesday , 11:7:43 am , 11:7:43 am , Invalid Arrival or Leave Time
-16 , Rafsan Uddin Beg Rizan , 227 , 2021-01-13 , Wednesday , 10:47:23 am , 10:47:23 am , Invalid Arrival or Leave Time
-17 , Md. Motaleb Hossain , 404 , 2021-01-13 , Wednesday , 10:28:56 am , 10:28:56 am , Invalid Arrival or Leave Time
-18 , Abul Khair , 214 , 2021-01-13 , Wednesday , 10:27:12 am , 10:27:12 am , Invalid Arrival or Leave Time
-19 , Suvro Dev Sarker , 307 , 2021-01-13 , Wednesday , 10:16:13 am , 10:16:13 am , Invalid Arrival or Leave Time
-20 , Pronab Bindu Majumder , 107 , 2021-01-13 , Wednesday , 10:12:33 am , 10:12:33 am , Invalid Arrival or Leave Time
-21 , S. M. Rifat Bin Rafiq , 208 , 2021-01-13 , Wednesday , 10:6:36 am , 10:6:36 am , Invalid Arrival or Leave Time
-22 , Md. Nasif Hossain Imon , 206 , 2021-01-13 , Wednesday , 9:49:38 am , 9:49:38 am , Invalid Arrival or Leave Time
-23 , Mufrad Hossain , 229 , 2021-01-13 , Wednesday , 9:46:22 am , 9:46:49 am , Late Arrived & Early leaved
-24 , Mohammad Hasan , 401 , 2021-01-13 , Wednesday , 9:42:40 am , 9:42:40 am , Invalid Arrival or Leave Time
-25 , Pretom Sikder Joy , 216 , 2021-01-13 , Wednesday , 9:42:14 am , 9:42:14 am , Invalid Arrival or Leave Time
-26 , Saleh Ahmmed , 224 , 2021-01-13 , Wednesday , 9:31:38 am , 9:31:38 am , Invalid Arrival or Leave Time
-27 , Md. Maminul Islam , 304 , 2021-01-13 , Wednesday , 9:26:18 am , 9:26:18 am , Invalid Arrival or Leave Time
-28 , S.M.Shafiquzzama , 217 , 2021-01-13 , Wednesday , 9:17:6 am , 9:17:6 am , Invalid Arrival or Leave Time
-29 , Tasnim Rahat , 210 , 2021-01-13 , Wednesday , 9:13:4 am , 9:13:4 am , Invalid Arrival or Leave Time
-30 , Nidalia Islam , 226 , 2021-01-13 , Wednesday , 9:12:57 am , 9:12:57 am , Invalid Arrival or Leave Time
-31 , Md Anwarul Kader , 212 , 2021-01-13 , Wednesday , 9:12:39 am , 9:12:39 am , Invalid Arrival or Leave Time
-32 , Md Sajjad Hossain , 207 , 2021-01-13 , Wednesday , 9:12:34 am , 9:12:34 am , Invalid Arrival or Leave Time
-33 , Md. Touhidur Rahman , 211 , 2021-01-13 , Wednesday , 9:8:12 am , 9:8:12 am , Invalid Arrival or Leave Time
-34 , Md. Shukat Ali , 221 , 2021-01-13 , Wednesday , 8:57:26 am , 8:57:26 am , Invalid Arrival or Leave Time
-35 , Abdul Latif Helaly  , 101 , 2021-01-13 , Wednesday , Null , Null , Absent
-36 , Md Aminur Rahman , 102 , 2021-01-13 , Wednesday , Null , Null , Absent
-37 , Md.Shahjahan , 105 , 2021-01-13 , Wednesday , Null , Null , Absent
-38 , D.M-Al-Maher , 202 , 2021-01-13 , Wednesday , Null , Null , Absent
-39 , B M Nural Absar , 215 , 2021-01-13 , Wednesday , Null , Null , Absent
-40 , Gazi Golam Sarwar , 218 , 2021-01-13 , Wednesday , Null , Null , Absent
-41 , Sudipta Chakraborty , 219 , 2021-01-13 , Wednesday , Null , Null , Absent
-42 , Md. Al-Amin Hossion , 220 , 2021-01-13 , Wednesday , Null , Null , Absent
-43 , Md. Razib Hasan , 301 , 2021-01-13 , Wednesday , Null , Null , Absent
-44 , Md. Abdus Samad Azad , 302 , 2021-01-13 , Wednesday , Null , Null , Absent
-45 , Md. Shahadat Hossain Mabud , 306 , 2021-01-13 , Wednesday , Null , Null , Absent
-46 , Md. Hafizur Rahman , 402 , 2021-01-13 , Wednesday , Null , Null , Absent
-47 , Md. Shahin Mia , 403 , 2021-01-13 , Wednesday , Null , Null , Absent
-48 , Abdus Salam Mia , 406 , 2021-01-13 , Wednesday , Null , Null , Absent
-49 , Mufrad Hossain , 229 , 2021-01-12 , Tuesday , 10:19:4 am , 4:56:11 pm , Late Arrived & Early leaved
-50 , Md. Motaleb Hossain , 404 , 2021-01-12 , Tuesday , 5:59:50 pm , 9:10:51 pm , Late Arrived
-51 , Md. Hafizur Rahman , 402 , 2021-01-12 , Tuesday , 12:21:14 pm , 8:48:9 pm , Late Arrived
-52 , Gazi Golam Sarwar , 218 , 2021-01-12 , Tuesday , 2:17:6 pm , 8:42:35 pm , Late Arrived
-53 , Saleh Ahmmed , 224 , 2021-01-12 , Tuesday , 9:22:3 am , 8:22:41 pm , Late Arrived
-54 , Abdus Salam Mia , 406 , 2021-01-12 , Tuesday , 1:50:47 pm , 9:15:57 pm , Late Arrived
-55 , Md Taimur Tanvir , 213 , 2021-01-12 , Tuesday , 11:42:20 am , 6:48:20 pm , Late Arrived
-56 , Rakibuzzaman Summon , 305 , 2021-01-12 , Tuesday , 9:15:35 am , 6:12:4 pm , Late Arrived
-57 , S. M. Rifat Bin Rafiq , 208 , 2021-01-12 , Tuesday , 10:18:11 am , 5:1:59 pm , Late Arrived
-58 , Pronab Bindu Majumder , 107 , 2021-01-12 , Tuesday , 9:54:7 am , 4:45:18 pm , Late Arrived & Early leaved
-59 , Abul Khair , 214 , 2021-01-12 , Tuesday , 10:9:16 am , 4:45:13 pm , Late Arrived & Early leaved
-60 , Tapan Kumar , 203 , 2021-01-12 , Tuesday , 9:41:37 am , 4:45:11 pm , Late Arrived & Early leaved
-61 , Md. Nasif Hossain Imon , 206 , 2021-01-12 , Tuesday , 9:41:48 am , 4:45:7 pm , Late Arrived & Early leaved
-62 , Bilash Kumar Ghosh , 201 , 2021-01-12 , Tuesday , 10:44:34 am , 4:45:4 pm , Late Arrived & Early leaved
-63 , Sushanta Kumar Das , 108 , 2021-01-12 , Tuesday , 9:53:46 am , 4:39:43 pm , Late Arrived & Early leaved
-64 , Md. Nazmul Hoque , 303 , 2021-01-12 , Tuesday , 9:10:28 am , 4:23:44 pm , Late Arrived & Early leaved
-65 , Md. Shahin Mia , 403 , 2021-01-12 , Tuesday , 9:5:37 am , 3:13:37 pm , Late Arrived & Early leaved
-66 , Md Aminur Rahman , 102 , 2021-01-12 , Tuesday , 10:38:43 am , 2:57:44 pm , Late Arrived & Early leaved
-67 , Md. Razib Hasan , 301 , 2021-01-12 , Tuesday , 9:48:50 am , 2:31:11 pm , Late Arrived & Early leaved
-68 , D.M-Al-Maher , 202 , 2021-01-12 , Tuesday , 2:15:49 pm , 2:15:49 pm , Invalid Arrival or Leave Time
-69 , Mohammad Hasan , 401 , 2021-01-12 , Tuesday , 9:46:12 am , 1:55:28 pm , Late Arrived & Early leaved
-70 , Abdur Rahman Khan , 222 , 2021-01-12 , Tuesday , 10:11:6 am , 1:13:47 pm , Late Arrived & Early leaved
-71 , Rafsan Uddin Beg Rizan , 227 , 2021-01-12 , Tuesday , 9:38:28 am , 1:5:30 pm , Late Arrived & Early leaved
-72 , Deen Mohammed , 223 , 2021-01-12 , Tuesday , 1:1:12 pm , 1:1:12 pm , Invalid Arrival or Leave Time
-73 , Shadia Masud , 204 , 2021-01-12 , Tuesday , 11:8:52 am , 12:46:50 pm , Late Arrived & Early leaved
-74 , Umme Suraya Nasrin , 205 , 2021-01-12 , Tuesday , 12:1:37 pm , 12:1:37 pm , Invalid Arrival or Leave Time
-75 , Shovon Saha , 228 , 2021-01-12 , Tuesday , 11:41:28 am , 11:41:28 am , Invalid Arrival or Leave Time
-76 , Md. Saifur Rahman Joarder , 106 , 2021-01-12 , Tuesday , 11:39:4 am , 11:39:4 am , Invalid Arrival or Leave Time
-77 , Md. Shukat Ali , 221 , 2021-01-12 , Tuesday , 9:41:43 am , 11:27:55 am , Late Arrived & Early leaved
-78 , Khandaker Md. Wahid Sadique , 103 , 2021-01-12 , Tuesday , 11:11:32 am , 11:11:32 am , Invalid Arrival or Leave Time
-79 , Md. Abdus Samad Azad , 302 , 2021-01-12 , Tuesday , 10:25:10 am , 10:25:10 am , Invalid Arrival or Leave Time
-80 , Md. Shahadat Hossain Mabud , 306 , 2021-01-12 , Tuesday , 10:17:8 am , 10:17:8 am , Invalid Arrival or Leave Time
-81 , Md. Touhidur Rahman , 211 , 2021-01-12 , Tuesday , 9:57:56 am , 9:57:56 am , Invalid Arrival or Leave Time
-82 , Suvro Dev Sarker , 307 , 2021-01-12 , Tuesday , 9:42:29 am , 9:42:29 am , Invalid Arrival or Leave Time
-83 , Tasnim Rahat , 210 , 2021-01-12 , Tuesday , 9:10:16 am , 9:10:16 am , Invalid Arrival or Leave Time
-84 , Md Sajjad Hossain , 207 , 2021-01-12 , Tuesday , 9:10:10 am , 9:10:10 am , Invalid Arrival or Leave Time
-85 , Md Anwarul Kader , 212 , 2021-01-12 , Tuesday , 9:8:48 am , 9:8:48 am , Invalid Arrival or Leave Time
-86 , Md. Maminul Islam , 304 , 2021-01-12 , Tuesday , 9:4:23 am , 9:4:23 am , Invalid Arrival or Leave Time
-87 , Abdul Latif Helaly  , 101 , 2021-01-12 , Tuesday , Null , Null , Absent
-88 , Md.Shahjahan , 105 , 2021-01-12 , Tuesday , Null , Null , Absent
-89 , Md. Fahim Faisal , 209 , 2021-01-12 , Tuesday , Null , Null , Absent
-90 , B M Nural Absar , 215 , 2021-01-12 , Tuesday , Null , Null , Absent
-91 , Pretom Sikder Joy , 216 , 2021-01-12 , Tuesday , Null , Null , Absent
-92 , S.M.Shafiquzzama , 217 , 2021-01-12 , Tuesday , Null , Null , Absent
-93 , Sudipta Chakraborty , 219 , 2021-01-12 , Tuesday , Null , Null , Absent
-94 , Md. Al-Amin Hossion , 220 , 2021-01-12 , Tuesday , Null , Null , Absent
-95 , Md. Apel Mahmud , 225 , 2021-01-12 , Tuesday , Null , Null , Absent
-96 , Nidalia Islam , 226 , 2021-01-12 , Tuesday , Null , Null , Absent
+1 , B M Nural Absar , 215 , 2021-01-19 , Tuesday , 2:54:30 pm , 2:54:30 pm , Invalid Arrival or Leave Time
+2 , Mohammad Hasan , 401 , 2021-01-19 , Tuesday , 9:46:44 am , 2:49:58 pm , Late Arrived & Early leaved
+3 , Gazi Golam Sarwar , 218 , 2021-01-19 , Tuesday , 10:58:55 am , 2:39:11 pm , Late Arrived & Early leaved
+4 , Md Sajjad Hossain , 207 , 2021-01-19 , Tuesday , 9:5:57 am , 2:25:16 pm , Late Arrived & Early leaved
+5 , Md. Motaleb Hossain , 404 , 2021-01-19 , Tuesday , 2:14:53 pm , 2:14:53 pm , Invalid Arrival or Leave Time
+6 , Rafsan Uddin Beg Rizan , 227 , 2021-01-19 , Tuesday , 10:48:31 am , 2:14:27 pm , Late Arrived & Early leaved
+7 , Nidalia Islam , 226 , 2021-01-19 , Tuesday , 9:5:50 am , 1:12:11 pm , Late Arrived & Early leaved
+8 , Sushanta Kumar Das , 108 , 2021-01-19 , Tuesday , 10:9:4 am , 1:10:45 pm , Late Arrived & Early leaved
+9 , Md. Shukat Ali , 221 , 2021-01-19 , Tuesday , 10:6:47 am , 1:8:53 pm , Late Arrived & Early leaved
+10 , Md. Fahim Faisal , 209 , 2021-01-19 , Tuesday , 12:52:12 pm , 12:52:16 pm , Late Arrived & Early leaved
+11 , Md. Hafizur Rahman , 402 , 2021-01-19 , Tuesday , 12:44:4 pm , 12:44:4 pm , Invalid Arrival or Leave Time
+12 , Abdur Rahman Khan , 222 , 2021-01-19 , Tuesday , 10:4:0 am , 12:43:23 pm , Late Arrived & Early leaved
+13 , Md. Al-Amin Hossion , 220 , 2021-01-19 , Tuesday , 9:13:35 am , 12:42:14 pm , Late Arrived & Early leaved
+14 , S. M. Rifat Bin Rafiq , 208 , 2021-01-19 , Tuesday , 10:8:49 am , 12:20:11 pm , Late Arrived & Early leaved
+15 , Umme Suraya Nasrin , 205 , 2021-01-19 , Tuesday , 12:17:49 pm , 12:17:49 pm , Invalid Arrival or Leave Time
+16 , Md Taimur Tanvir , 213 , 2021-01-19 , Tuesday , 11:58:49 am , 11:58:49 am , Invalid Arrival or Leave Time
+17 , Mufrad Hossain , 229 , 2021-01-19 , Tuesday , 11:43:21 am , 11:43:21 am , Invalid Arrival or Leave Time
+18 , Shovon Saha , 228 , 2021-01-19 , Tuesday , 11:26:24 am , 11:26:24 am , Invalid Arrival or Leave Time
+19 , Shadia Masud , 204 , 2021-01-19 , Tuesday , 11:26:15 am , 11:26:15 am , Invalid Arrival or Leave Time
+20 , Deen Mohammed , 223 , 2021-01-19 , Tuesday , 10:48:35 am , 10:48:39 am , Late Arrived & Early leaved
+21 , Md. Touhidur Rahman , 211 , 2021-01-19 , Tuesday , 10:41:53 am , 10:41:57 am , Late Arrived & Early leaved
+22 , Pronab Bindu Majumder , 107 , 2021-01-19 , Tuesday , 10:33:6 am , 10:33:6 am , Invalid Arrival or Leave Time
+23 , Rakibuzzaman Summon , 305 , 2021-01-19 , Tuesday , 10:24:26 am , 10:24:26 am , Invalid Arrival or Leave Time
+24 , Md. Shahadat Hossain Mabud , 306 , 2021-01-19 , Tuesday , 10:19:6 am , 10:19:6 am , Invalid Arrival or Leave Time
+25 , Pretom Sikder Joy , 216 , 2021-01-19 , Tuesday , 10:15:38 am , 10:15:38 am , Invalid Arrival or Leave Time
+26 , Abul Khair , 214 , 2021-01-19 , Tuesday , 9:35:0 am , 9:35:0 am , Invalid Arrival or Leave Time
+27 , Tapan Kumar , 203 , 2021-01-19 , Tuesday , 9:13:30 am , 9:13:30 am , Invalid Arrival or Leave Time
+28 , Tasnim Rahat , 210 , 2021-01-19 , Tuesday , 9:5:42 am , 9:5:42 am , Invalid Arrival or Leave Time
+29 , Md Anwarul Kader , 212 , 2021-01-19 , Tuesday , 9:5:37 am , 9:5:37 am , Invalid Arrival or Leave Time
+30 , Md. Maminul Islam , 304 , 2021-01-19 , Tuesday , 8:58:30 am , 8:58:30 am , Invalid Arrival or Leave Time
+31 , Abdul Latif Helaly  , 101 , 2021-01-19 , Tuesday , Null , Null , Absent
+32 , Md Aminur Rahman , 102 , 2021-01-19 , Tuesday , Null , Null , Absent
+33 , Khandaker Md. Wahid Sadique , 103 , 2021-01-19 , Tuesday , Null , Null , Absent
+34 , Md.Shahjahan , 105 , 2021-01-19 , Tuesday , Null , Null , Absent
+35 , Md. Saifur Rahman Joarder , 106 , 2021-01-19 , Tuesday , Null , Null , Absent
+36 , Bilash Kumar Ghosh , 201 , 2021-01-19 , Tuesday , Null , Null , Absent
+37 , D.M-Al-Maher , 202 , 2021-01-19 , Tuesday , Null , Null , Absent
+38 , Md. Nasif Hossain Imon , 206 , 2021-01-19 , Tuesday , Null , Null , Absent
+39 , S.M.Shafiquzzama , 217 , 2021-01-19 , Tuesday , Null , Null , Absent
+40 , Sudipta Chakraborty , 219 , 2021-01-19 , Tuesday , Null , Null , Absent
+41 , Saleh Ahmmed , 224 , 2021-01-19 , Tuesday , Null , Null , Absent
+42 , Md. Apel Mahmud , 225 , 2021-01-19 , Tuesday , Null , Null , Absent
+43 , Md. Razib Hasan , 301 , 2021-01-19 , Tuesday , Null , Null , Absent
+44 , Md. Abdus Samad Azad , 302 , 2021-01-19 , Tuesday , Null , Null , Absent
+45 , Md. Nazmul Hoque , 303 , 2021-01-19 , Tuesday , Null , Null , Absent
+46 , Suvro Dev Sarker , 307 , 2021-01-19 , Tuesday , Null , Null , Absent
+47 , Md. Shahin Mia , 403 , 2021-01-19 , Tuesday , Null , Null , Absent
+48 , Abdus Salam Mia , 406 , 2021-01-19 , Tuesday , Null , Null , Absent
+49 , Suvro Dev Sarker , 307 , 2021-01-18 , Monday , 9:47:15 am , 4:55:50 pm , Late Arrived & Early leaved
+50 , Md. Shahin Mia , 403 , 2021-01-18 , Monday , 9:14:28 pm , 9:14:28 pm , Invalid Arrival or Leave Time
+51 , Abdus Salam Mia , 406 , 2021-01-18 , Monday , 6:16:31 pm , 8:18:36 pm , Late Arrived
+52 , Md. Motaleb Hossain , 404 , 2021-01-18 , Monday , 7:14:15 pm , 10:6:58 pm , Late Arrived
+53 , Shovon Saha , 228 , 2021-01-18 , Monday , 10:1:19 am , 6:8:50 pm , Late Arrived
+54 , Md. Hafizur Rahman , 402 , 2021-01-18 , Monday , 11:39:15 am , 5:50:30 pm , Late Arrived
+55 , Rakibuzzaman Summon , 305 , 2021-01-18 , Monday , 10:22:8 am , 5:41:53 pm , Late Arrived
+56 , Sushanta Kumar Das , 108 , 2021-01-18 , Monday , 8:40:53 am , 5:38:49 pm , Present Office Full Time
+57 , Shadia Masud , 204 , 2021-01-18 , Monday , 9:55:57 am , 5:14:24 pm , Late Arrived
+58 , Md. Maminul Islam , 304 , 2021-01-18 , Monday , 9:19:38 am , 5:4:6 pm , Late Arrived
+59 , S. M. Rifat Bin Rafiq , 208 , 2021-01-18 , Monday , 10:29:39 am , 5:1:39 pm , Late Arrived
+60 , Tapan Kumar , 203 , 2021-01-18 , Monday , 9:46:43 am , 4:56:56 pm , Late Arrived & Early leaved
+61 , Md. Fahim Faisal , 209 , 2021-01-18 , Monday , 9:53:2 am , 4:55:57 pm , Late Arrived & Early leaved
+62 , Md. Shukat Ali , 221 , 2021-01-18 , Monday , 9:46:33 am , 4:53:53 pm , Late Arrived & Early leaved
+63 , Abul Khair , 214 , 2021-01-18 , Monday , 9:46:11 am , 4:53:4 pm , Late Arrived & Early leaved
+64 , Bilash Kumar Ghosh , 201 , 2021-01-18 , Monday , 9:46:24 am , 4:52:21 pm , Late Arrived & Early leaved
+65 , Abdur Rahman Khan , 222 , 2021-01-18 , Monday , 1:29:46 pm , 3:38:59 pm , Late Arrived & Early leaved
+66 , Md. Al-Amin Hossion , 220 , 2021-01-18 , Monday , 9:46:39 am , 3:22:9 pm , Late Arrived & Early leaved
+67 , Deen Mohammed , 223 , 2021-01-18 , Monday , 10:56:59 am , 3:21:51 pm , Late Arrived & Early leaved
+68 , S.M.Shafiquzzama , 217 , 2021-01-18 , Monday , 9:46:16 am , 3:0:52 pm , Late Arrived & Early leaved
+69 , Khandaker Md. Wahid Sadique , 103 , 2021-01-18 , Monday , 2:55:25 pm , 2:55:25 pm , Invalid Arrival or Leave Time
+70 , D.M-Al-Maher , 202 , 2021-01-18 , Monday , 2:52:37 pm , 2:52:37 pm , Invalid Arrival or Leave Time
+71 , Tasnim Rahat , 210 , 2021-01-18 , Monday , 9:17:41 am , 2:33:18 pm , Late Arrived & Early leaved
+72 , Mohammad Hasan , 401 , 2021-01-18 , Monday , 9:36:58 am , 2:20:47 pm , Late Arrived & Early leaved
+73 , Md Taimur Tanvir , 213 , 2021-01-18 , Monday , 11:27:21 am , 11:27:21 am , Invalid Arrival or Leave Time
+74 , Pretom Sikder Joy , 216 , 2021-01-18 , Monday , 9:54:51 am , 11:9:55 am , Late Arrived & Early leaved
+75 , Mufrad Hossain , 229 , 2021-01-18 , Monday , 10:42:37 am , 10:42:37 am , Invalid Arrival or Leave Time
+76 , Md. Shahadat Hossain Mabud , 306 , 2021-01-18 , Monday , 10:22:5 am , 10:22:5 am , Invalid Arrival or Leave Time
+77 , Md. Apel Mahmud , 225 , 2021-01-18 , Monday , 10:0:0 am , 10:0:0 am , Invalid Arrival or Leave Time
+78 , Md. Nasif Hossain Imon , 206 , 2021-01-18 , Monday , 9:46:29 am , 9:46:29 am , Invalid Arrival or Leave Time
+79 , Pronab Bindu Majumder , 107 , 2021-01-18 , Monday , 9:22:4 am , 9:22:4 am , Invalid Arrival or Leave Time
+80 , Umme Suraya Nasrin , 205 , 2021-01-18 , Monday , 9:21:55 am , 9:21:55 am , Invalid Arrival or Leave Time
+81 , Md. Nazmul Hoque , 303 , 2021-01-18 , Monday , 9:19:42 am , 9:19:42 am , Invalid Arrival or Leave Time
+82 , Saleh Ahmmed , 224 , 2021-01-18 , Monday , 9:17:40 am , 9:17:40 am , Invalid Arrival or Leave Time
+83 , Nidalia Islam , 226 , 2021-01-18 , Monday , 9:17:35 am , 9:17:35 am , Invalid Arrival or Leave Time
+84 , Md Anwarul Kader , 212 , 2021-01-18 , Monday , 9:17:21 am , 9:17:21 am , Invalid Arrival or Leave Time
+85 , Md Sajjad Hossain , 207 , 2021-01-18 , Monday , 9:17:16 am , 9:17:16 am , Invalid Arrival or Leave Time
+86 , Abdul Latif Helaly  , 101 , 2021-01-18 , Monday , Null , Null , Absent
+87 , Md Aminur Rahman , 102 , 2021-01-18 , Monday , Null , Null , Absent
+88 , Md.Shahjahan , 105 , 2021-01-18 , Monday , Null , Null , Absent
+89 , Md. Saifur Rahman Joarder , 106 , 2021-01-18 , Monday , Null , Null , Absent
+90 , Md. Touhidur Rahman , 211 , 2021-01-18 , Monday , Null , Null , Absent
+91 , B M Nural Absar , 215 , 2021-01-18 , Monday , Null , Null , Absent
+92 , Gazi Golam Sarwar , 218 , 2021-01-18 , Monday , Null , Null , Absent
+93 , Sudipta Chakraborty , 219 , 2021-01-18 , Monday , Null , Null , Absent
+94 , Rafsan Uddin Beg Rizan , 227 , 2021-01-18 , Monday , Null , Null , Absent
+95 , Md. Razib Hasan , 301 , 2021-01-18 , Monday , Null , Null , Absent
+96 , Md. Abdus Samad Azad , 302 , 2021-01-18 , Monday , Null , Null , Absent
+97 , Saleh Ahmmed , 224 , 2021-01-17 , Sunday , 8:46:8 pm , 8:46:8 pm , Invalid Arrival or Leave Time
+98 , Md. Hafizur Rahman , 402 , 2021-01-17 , Sunday , 5:58:42 pm , 8:18:34 pm , Late Arrived
+99 , Abdus Salam Mia , 406 , 2021-01-17 , Sunday , 5:53:52 pm , 8:12:52 pm , Late Arrived
+100 , Shovon Saha , 228 , 2021-01-17 , Sunday , 11:32:21 am , 6:56:43 pm , Late Arrived
+101 , Gazi Golam Sarwar , 218 , 2021-01-17 , Sunday , 12:51:15 pm , 5:48:59 pm , Late Arrived
+102 , Md. Shahin Mia , 403 , 2021-01-17 , Sunday , 3:4:22 pm , 5:39:34 pm , Late Arrived
+103 , Md. Motaleb Hossain , 404 , 2021-01-17 , Sunday , 9:24:42 am , 5:23:22 pm , Late Arrived
+104 , Rakibuzzaman Summon , 305 , 2021-01-17 , Sunday , 10:35:52 am , 5:15:56 pm , Late Arrived
+105 , Md. Apel Mahmud , 225 , 2021-01-17 , Sunday , 1:52:39 pm , 5:9:6 pm , Late Arrived
+106 , S. M. Rifat Bin Rafiq , 208 , 2021-01-17 , Sunday , 10:4:12 am , 5:4:21 pm , Late Arrived
+107 , Shadia Masud , 204 , 2021-01-17 , Sunday , 9:43:2 am , 5:1:46 pm , Late Arrived
+108 , Pronab Bindu Majumder , 107 , 2021-01-17 , Sunday , 9:52:0 am , 5:0:19 pm , Late Arrived
+109 , Sushanta Kumar Das , 108 , 2021-01-17 , Sunday , 11:39:29 am , 5:0:15 pm , Late Arrived
+110 , Md. Nazmul Hoque , 303 , 2021-01-17 , Sunday , 9:1:51 am , 4:57:38 pm , Late Arrived & Early leaved
+111 , S.M.Shafiquzzama , 217 , 2021-01-17 , Sunday , 9:34:20 am , 4:56:34 pm , Late Arrived & Early leaved
+112 , Abul Khair , 214 , 2021-01-17 , Sunday , 9:34:32 am , 4:56:22 pm , Late Arrived & Early leaved
+113 , Md. Shukat Ali , 221 , 2021-01-17 , Sunday , 9:34:46 am , 4:56:13 pm , Late Arrived & Early leaved
+114 , Umme Suraya Nasrin , 205 , 2021-01-17 , Sunday , 12:6:26 pm , 4:6:8 pm , Late Arrived & Early leaved
+115 , Abdur Rahman Khan , 222 , 2021-01-17 , Sunday , 9:50:5 am , 3:58:49 pm , Late Arrived & Early leaved
+116 , Khandaker Md. Wahid Sadique , 103 , 2021-01-17 , Sunday , 3:45:59 pm , 3:45:59 pm , Invalid Arrival or Leave Time
+117 , Deen Mohammed , 223 , 2021-01-17 , Sunday , 11:3:42 am , 3:42:0 pm , Late Arrived & Early leaved
+118 , Md Aminur Rahman , 102 , 2021-01-17 , Sunday , 3:19:4 pm , 3:19:4 pm , Invalid Arrival or Leave Time
+119 , Md Anwarul Kader , 212 , 2021-01-17 , Sunday , 9:1:40 am , 3:15:48 pm , Late Arrived & Early leaved
+120 , Md Taimur Tanvir , 213 , 2021-01-17 , Sunday , 11:15:16 am , 3:4:48 pm , Late Arrived & Early leaved
+121 , Bilash Kumar Ghosh , 201 , 2021-01-17 , Sunday , 9:34:40 am , 2:4:47 pm , Late Arrived & Early leaved
+122 , Md. Fahim Faisal , 209 , 2021-01-17 , Sunday , 7:29:42 am , 11:19:49 am , Early leaved
+123 , D.M-Al-Maher , 202 , 2021-01-17 , Sunday , 1:36:51 pm , 1:36:51 pm , Invalid Arrival or Leave Time
+124 , Md. Al-Amin Hossion , 220 , 2021-01-17 , Sunday , 11:56:46 am , 1:31:39 pm , Late Arrived & Early leaved
+125 , Md. Saifur Rahman Joarder , 106 , 2021-01-17 , Sunday , 11:32:43 am , 11:32:43 am , Invalid Arrival or Leave Time
+126 , Mufrad Hossain , 229 , 2021-01-17 , Sunday , 10:32:23 am , 10:32:23 am , Invalid Arrival or Leave Time
+127 , Md. Maminul Islam , 304 , 2021-01-17 , Sunday , 9:59:45 am , 9:59:45 am , Invalid Arrival or Leave Time
+128 , Md. Nasif Hossain Imon , 206 , 2021-01-17 , Sunday , 9:34:35 am , 9:34:35 am , Invalid Arrival or Leave Time
+129 , Tapan Kumar , 203 , 2021-01-17 , Sunday , 9:34:27 am , 9:34:27 am , Invalid Arrival or Leave Time
+130 , Mohammad Hasan , 401 , 2021-01-17 , Sunday , 9:24:8 am , 9:24:8 am , Invalid Arrival or Leave Time
+131 , Tasnim Rahat , 210 , 2021-01-17 , Sunday , 9:1:45 am , 9:1:45 am , Invalid Arrival or Leave Time
+132 , Abdul Latif Helaly  , 101 , 2021-01-17 , Sunday , Null , Null , Absent
+133 , Md.Shahjahan , 105 , 2021-01-17 , Sunday , Null , Null , Absent
+134 , Md Sajjad Hossain , 207 , 2021-01-17 , Sunday , Null , Null , Absent
+135 , Md. Touhidur Rahman , 211 , 2021-01-17 , Sunday , Null , Null , Absent
+136 , B M Nural Absar , 215 , 2021-01-17 , Sunday , Null , Null , Absent
+137 , Pretom Sikder Joy , 216 , 2021-01-17 , Sunday , Null , Null , Absent
+138 , Sudipta Chakraborty , 219 , 2021-01-17 , Sunday , Null , Null , Absent
+139 , Nidalia Islam , 226 , 2021-01-17 , Sunday , Null , Null , Absent
+140 , Rafsan Uddin Beg Rizan , 227 , 2021-01-17 , Sunday , Null , Null , Absent
+141 , Md. Razib Hasan , 301 , 2021-01-17 , Sunday , Null , Null , Absent
+142 , Md. Abdus Samad Azad , 302 , 2021-01-17 , Sunday , Null , Null , Absent
+143 , Md. Shahadat Hossain Mabud , 306 , 2021-01-17 , Sunday , Null , Null , Absent
+144 , Suvro Dev Sarker , 307 , 2021-01-17 , Sunday , Null , Null , Absent
+145 , Md. Hafizur Rahman , 402 , 2021-01-16 , Saturday , 2:37:35 pm , 7:36:56 pm , Late Arrived
+146 , Abdus Salam Mia , 406 , 2021-01-16 , Saturday , 7:13:42 pm , 7:13:42 pm , Invalid Arrival or Leave Time
+147 , Md. Motaleb Hossain , 404 , 2021-01-16 , Saturday , 11:16:29 am , 6:22:53 pm , Late Arrived
+148 , Abdul Latif Helaly  , 101 , 2021-01-16 , Saturday , Null , Null , Absent
+149 , Md Aminur Rahman , 102 , 2021-01-16 , Saturday , Null , Null , Absent
+150 , Khandaker Md. Wahid Sadique , 103 , 2021-01-16 , Saturday , Null , Null , Absent
+151 , Md.Shahjahan , 105 , 2021-01-16 , Saturday , Null , Null , Absent
+152 , Md. Saifur Rahman Joarder , 106 , 2021-01-16 , Saturday , Null , Null , Absent
+153 , Pronab Bindu Majumder , 107 , 2021-01-16 , Saturday , Null , Null , Absent
+154 , Sushanta Kumar Das , 108 , 2021-01-16 , Saturday , Null , Null , Absent
+155 , Bilash Kumar Ghosh , 201 , 2021-01-16 , Saturday , Null , Null , Absent
+156 , D.M-Al-Maher , 202 , 2021-01-16 , Saturday , Null , Null , Absent
+157 , Tapan Kumar , 203 , 2021-01-16 , Saturday , Null , Null , Absent
+158 , Shadia Masud , 204 , 2021-01-16 , Saturday , Null , Null , Absent
+159 , Umme Suraya Nasrin , 205 , 2021-01-16 , Saturday , Null , Null , Absent
+160 , Md. Nasif Hossain Imon , 206 , 2021-01-16 , Saturday , Null , Null , Absent
+161 , Md Sajjad Hossain , 207 , 2021-01-16 , Saturday , Null , Null , Absent
+162 , S. M. Rifat Bin Rafiq , 208 , 2021-01-16 , Saturday , Null , Null , Absent
+163 , Md. Fahim Faisal , 209 , 2021-01-16 , Saturday , Null , Null , Absent
+164 , Tasnim Rahat , 210 , 2021-01-16 , Saturday , Null , Null , Absent
+165 , Md. Touhidur Rahman , 211 , 2021-01-16 , Saturday , Null , Null , Absent
+166 , Md Anwarul Kader , 212 , 2021-01-16 , Saturday , Null , Null , Absent
+167 , Md Taimur Tanvir , 213 , 2021-01-16 , Saturday , Null , Null , Absent
+168 , Abul Khair , 214 , 2021-01-16 , Saturday , Null , Null , Absent
+169 , B M Nural Absar , 215 , 2021-01-16 , Saturday , Null , Null , Absent
+170 , Pretom Sikder Joy , 216 , 2021-01-16 , Saturday , Null , Null , Absent
+171 , S.M.Shafiquzzama , 217 , 2021-01-16 , Saturday , Null , Null , Absent
+172 , Gazi Golam Sarwar , 218 , 2021-01-16 , Saturday , Null , Null , Absent
+173 , Sudipta Chakraborty , 219 , 2021-01-16 , Saturday , Null , Null , Absent
+174 , Md. Al-Amin Hossion , 220 , 2021-01-16 , Saturday , Null , Null , Absent
+175 , Md. Shukat Ali , 221 , 2021-01-16 , Saturday , Null , Null , Absent
+176 , Abdur Rahman Khan , 222 , 2021-01-16 , Saturday , Null , Null , Absent
+177 , Deen Mohammed , 223 , 2021-01-16 , Saturday , Null , Null , Absent
+178 , Saleh Ahmmed , 224 , 2021-01-16 , Saturday , Null , Null , Absent
+179 , Md. Apel Mahmud , 225 , 2021-01-16 , Saturday , Null , Null , Absent
+180 , Nidalia Islam , 226 , 2021-01-16 , Saturday , Null , Null , Absent
+181 , Rafsan Uddin Beg Rizan , 227 , 2021-01-16 , Saturday , Null , Null , Absent
+182 , Shovon Saha , 228 , 2021-01-16 , Saturday , Null , Null , Absent
+183 , Mufrad Hossain , 229 , 2021-01-16 , Saturday , Null , Null , Absent
+184 , Md. Razib Hasan , 301 , 2021-01-16 , Saturday , Null , Null , Absent
+185 , Md. Abdus Samad Azad , 302 , 2021-01-16 , Saturday , Null , Null , Absent
+186 , Md. Nazmul Hoque , 303 , 2021-01-16 , Saturday , Null , Null , Absent
+187 , Md. Maminul Islam , 304 , 2021-01-16 , Saturday , Null , Null , Absent
+188 , Rakibuzzaman Summon , 305 , 2021-01-16 , Saturday , Null , Null , Absent
+189 , Md. Shahadat Hossain Mabud , 306 , 2021-01-16 , Saturday , Null , Null , Absent
+190 , Suvro Dev Sarker , 307 , 2021-01-16 , Saturday , Null , Null , Absent
+191 , Mohammad Hasan , 401 , 2021-01-16 , Saturday , Null , Null , Absent
+192 , Md. Shahin Mia , 403 , 2021-01-16 , Saturday , Null , Null , Absent
+193 , Abdus Salam Mia , 406 , 2021-01-15 , Friday , 10:35:27 am , 6:47:48 pm , Late Arrived
+194 , Md. Motaleb Hossain , 404 , 2021-01-15 , Friday , 1:54:47 pm , 7:14:12 pm , Late Arrived
+195 , Md. Hafizur Rahman , 402 , 2021-01-15 , Friday , 12:38:19 pm , 9:5:11 pm , Late Arrived
+196 , Abdul Latif Helaly  , 101 , 2021-01-15 , Friday , Null , Null , Absent
+197 , Md Aminur Rahman , 102 , 2021-01-15 , Friday , Null , Null , Absent
+198 , Khandaker Md. Wahid Sadique , 103 , 2021-01-15 , Friday , Null , Null , Absent
+199 , Md.Shahjahan , 105 , 2021-01-15 , Friday , Null , Null , Absent
+200 , Md. Saifur Rahman Joarder , 106 , 2021-01-15 , Friday , Null , Null , Absent
+201 , Pronab Bindu Majumder , 107 , 2021-01-15 , Friday , Null , Null , Absent
+202 , Sushanta Kumar Das , 108 , 2021-01-15 , Friday , Null , Null , Absent
+203 , Bilash Kumar Ghosh , 201 , 2021-01-15 , Friday , Null , Null , Absent
+204 , D.M-Al-Maher , 202 , 2021-01-15 , Friday , Null , Null , Absent
+205 , Tapan Kumar , 203 , 2021-01-15 , Friday , Null , Null , Absent
+206 , Shadia Masud , 204 , 2021-01-15 , Friday , Null , Null , Absent
+207 , Umme Suraya Nasrin , 205 , 2021-01-15 , Friday , Null , Null , Absent
+208 , Md. Nasif Hossain Imon , 206 , 2021-01-15 , Friday , Null , Null , Absent
+209 , Md Sajjad Hossain , 207 , 2021-01-15 , Friday , Null , Null , Absent
+210 , S. M. Rifat Bin Rafiq , 208 , 2021-01-15 , Friday , Null , Null , Absent
+211 , Md. Fahim Faisal , 209 , 2021-01-15 , Friday , Null , Null , Absent
+212 , Tasnim Rahat , 210 , 2021-01-15 , Friday , Null , Null , Absent
+213 , Md. Touhidur Rahman , 211 , 2021-01-15 , Friday , Null , Null , Absent
+214 , Md Anwarul Kader , 212 , 2021-01-15 , Friday , Null , Null , Absent
+215 , Md Taimur Tanvir , 213 , 2021-01-15 , Friday , Null , Null , Absent
+216 , Abul Khair , 214 , 2021-01-15 , Friday , Null , Null , Absent
+217 , B M Nural Absar , 215 , 2021-01-15 , Friday , Null , Null , Absent
+218 , Pretom Sikder Joy , 216 , 2021-01-15 , Friday , Null , Null , Absent
+219 , S.M.Shafiquzzama , 217 , 2021-01-15 , Friday , Null , Null , Absent
+220 , Gazi Golam Sarwar , 218 , 2021-01-15 , Friday , Null , Null , Absent
+221 , Sudipta Chakraborty , 219 , 2021-01-15 , Friday , Null , Null , Absent
+222 , Md. Al-Amin Hossion , 220 , 2021-01-15 , Friday , Null , Null , Absent
+223 , Md. Shukat Ali , 221 , 2021-01-15 , Friday , Null , Null , Absent
+224 , Abdur Rahman Khan , 222 , 2021-01-15 , Friday , Null , Null , Absent
+225 , Deen Mohammed , 223 , 2021-01-15 , Friday , Null , Null , Absent
+226 , Saleh Ahmmed , 224 , 2021-01-15 , Friday , Null , Null , Absent
+227 , Md. Apel Mahmud , 225 , 2021-01-15 , Friday , Null , Null , Absent
+228 , Nidalia Islam , 226 , 2021-01-15 , Friday , Null , Null , Absent
+229 , Rafsan Uddin Beg Rizan , 227 , 2021-01-15 , Friday , Null , Null , Absent
+230 , Shovon Saha , 228 , 2021-01-15 , Friday , Null , Null , Absent
+231 , Mufrad Hossain , 229 , 2021-01-15 , Friday , Null , Null , Absent
+232 , Md. Razib Hasan , 301 , 2021-01-15 , Friday , Null , Null , Absent
+233 , Md. Abdus Samad Azad , 302 , 2021-01-15 , Friday , Null , Null , Absent
+234 , Md. Nazmul Hoque , 303 , 2021-01-15 , Friday , Null , Null , Absent
+235 , Md. Maminul Islam , 304 , 2021-01-15 , Friday , Null , Null , Absent
+236 , Rakibuzzaman Summon , 305 , 2021-01-15 , Friday , Null , Null , Absent
+237 , Md. Shahadat Hossain Mabud , 306 , 2021-01-15 , Friday , Null , Null , Absent
+238 , Suvro Dev Sarker , 307 , 2021-01-15 , Friday , Null , Null , Absent
+239 , Mohammad Hasan , 401 , 2021-01-15 , Friday , Null , Null , Absent
+240 , Md. Shahin Mia , 403 , 2021-01-15 , Friday , Null , Null , Absent
+241 , Md Anwarul Kader , 212 , 2021-01-14 , Thursday , 9:14:18 am , 3:55:25 pm , Late Arrived & Early leaved
+242 , Gazi Golam Sarwar , 218 , 2021-01-14 , Thursday , 1:11:23 pm , 11:17:21 pm , Late Arrived
+243 , Abdus Salam Mia , 406 , 2021-01-14 , Thursday , 12:37:29 pm , 8:51:4 pm , Late Arrived
+244 , Saleh Ahmmed , 224 , 2021-01-14 , Thursday , 7:56:22 pm , 8:37:59 pm , Late Arrived
+245 , Md. Hafizur Rahman , 402 , 2021-01-14 , Thursday , 11:22:12 am , 8:6:20 pm , Late Arrived
+246 , Rafsan Uddin Beg Rizan , 227 , 2021-01-14 , Thursday , 5:6:41 pm , 7:45:2 pm , Late Arrived
+247 , Md. Motaleb Hossain , 404 , 2021-01-14 , Thursday , 1:56:15 pm , 7:36:31 pm , Late Arrived
+248 , Md. Apel Mahmud , 225 , 2021-01-14 , Thursday , 12:33:36 pm , 7:15:20 pm , Late Arrived
+249 , Shovon Saha , 228 , 2021-01-14 , Thursday , 12:27:54 pm , 6:12:4 pm , Late Arrived
+250 , Rakibuzzaman Summon , 305 , 2021-01-14 , Thursday , 10:19:9 am , 5:57:40 pm , Late Arrived
+251 , Bilash Kumar Ghosh , 201 , 2021-01-14 , Thursday , 10:4:27 am , 5:18:18 pm , Late Arrived
+252 , Sushanta Kumar Das , 108 , 2021-01-14 , Thursday , 11:19:3 am , 5:11:20 pm , Late Arrived
+253 , Tapan Kumar , 203 , 2021-01-14 , Thursday , 9:2:6 am , 5:7:58 pm , Late Arrived
+254 , S. M. Rifat Bin Rafiq , 208 , 2021-01-14 , Thursday , 10:20:35 am , 5:7:55 pm , Late Arrived
+255 , Pronab Bindu Majumder , 107 , 2021-01-14 , Thursday , 11:31:51 am , 4:58:39 pm , Late Arrived & Early leaved
+256 , Md. Touhidur Rahman , 211 , 2021-01-14 , Thursday , 8:54:10 am , 4:57:4 pm , Early leaved
+257 , Shadia Masud , 204 , 2021-01-14 , Thursday , 9:52:23 am , 4:34:22 pm , Late Arrived & Early leaved
+258 , Nidalia Islam , 226 , 2021-01-14 , Thursday , 9:14:25 am , 4:15:40 pm , Late Arrived & Early leaved
+259 , D.M-Al-Maher , 202 , 2021-01-14 , Thursday , 2:2:41 pm , 4:15:9 pm , Late Arrived & Early leaved
+260 , Md. Maminul Islam , 304 , 2021-01-14 , Thursday , 9:27:59 am , 4:9:33 pm , Late Arrived & Early leaved
+261 , Md. Shahadat Hossain Mabud , 306 , 2021-01-14 , Thursday , 10:14:21 am , 3:48:9 pm , Late Arrived & Early leaved
+262 , Md. Nazmul Hoque , 303 , 2021-01-14 , Thursday , 9:15:41 am , 2:46:6 pm , Late Arrived & Early leaved
+263 , Abdur Rahman Khan , 222 , 2021-01-14 , Thursday , 12:42:52 pm , 2:44:7 pm , Late Arrived & Early leaved
+264 , Md. Nasif Hossain Imon , 206 , 2021-01-14 , Thursday , 2:38:28 pm , 2:38:28 pm , Invalid Arrival or Leave Time
+265 , Tasnim Rahat , 210 , 2021-01-14 , Thursday , 9:14:33 am , 2:22:9 pm , Late Arrived & Early leaved
+266 , Deen Mohammed , 223 , 2021-01-14 , Thursday , 11:4:58 am , 2:4:40 pm , Late Arrived & Early leaved
+267 , Md. Fahim Faisal , 209 , 2021-01-14 , Thursday , 7:34:20 am , 12:23:50 pm , Early leaved
+268 , Md. Al-Amin Hossion , 220 , 2021-01-14 , Thursday , 12:7:39 pm , 12:7:39 pm , Invalid Arrival or Leave Time
+269 , Umme Suraya Nasrin , 205 , 2021-01-14 , Thursday , 11:50:3 am , 11:50:3 am , Invalid Arrival or Leave Time
+270 , Md Sajjad Hossain , 207 , 2021-01-14 , Thursday , 9:14:14 am , 11:41:35 am , Late Arrived & Early leaved
+271 , Md. Abdus Samad Azad , 302 , 2021-01-14 , Thursday , 10:50:22 am , 10:50:22 am , Invalid Arrival or Leave Time
+272 , Md. Shukat Ali , 221 , 2021-01-14 , Thursday , 10:9:7 am , 10:42:16 am , Late Arrived & Early leaved
+273 , Pretom Sikder Joy , 216 , 2021-01-14 , Thursday , 9:38:47 am , 9:38:47 am , Invalid Arrival or Leave Time
+274 , Mohammad Hasan , 401 , 2021-01-14 , Thursday , 9:38:9 am , 9:38:9 am , Invalid Arrival or Leave Time
+275 , Abdul Latif Helaly  , 101 , 2021-01-14 , Thursday , Null , Null , Absent
+276 , Md Aminur Rahman , 102 , 2021-01-14 , Thursday , Null , Null , Absent
+277 , Khandaker Md. Wahid Sadique , 103 , 2021-01-14 , Thursday , Null , Null , Absent
+278 , Md.Shahjahan , 105 , 2021-01-14 , Thursday , Null , Null , Absent
+279 , Md. Saifur Rahman Joarder , 106 , 2021-01-14 , Thursday , Null , Null , Absent
+280 , Md Taimur Tanvir , 213 , 2021-01-14 , Thursday , Null , Null , Absent
+281 , Abul Khair , 214 , 2021-01-14 , Thursday , Null , Null , Absent
+282 , B M Nural Absar , 215 , 2021-01-14 , Thursday , Null , Null , Absent
+283 , S.M.Shafiquzzama , 217 , 2021-01-14 , Thursday , Null , Null , Absent
+284 , Sudipta Chakraborty , 219 , 2021-01-14 , Thursday , Null , Null , Absent
+285 , Mufrad Hossain , 229 , 2021-01-14 , Thursday , Null , Null , Absent
+286 , Md. Razib Hasan , 301 , 2021-01-14 , Thursday , Null , Null , Absent
+287 , Suvro Dev Sarker , 307 , 2021-01-14 , Thursday , Null , Null , Absent
+288 , Md. Shahin Mia , 403 , 2021-01-14 , Thursday , Null , Null , Absent
